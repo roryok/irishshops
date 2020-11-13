@@ -1,0 +1,2568 @@
+{
+ "sites": [
+  {
+   "name": "Salty Buoy",
+   "url": "https://www.saltybuoy.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "A food truck for seafood, they also deliver nationwide"
+  },
+  {
+   "name": "Guaranteed Irish Hamper",
+   "url": "https://www.guaranteedirish.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "Hampers of guaranteed irish food",
+   "error": "connection error"
+  },
+  {
+   "name": "Bujo Bbq",
+   "url": "https://shop.bujo.ie/",
+   "tags": [
+    "food"
+   ],
+   "desc": "BBQ food",
+   "metadesc": [
+    "Make the masterpiece at home. "
+   ]
+  },
+  {
+   "name": "Three Drams Whiskey",
+   "url": "https://www.threedrams.com",
+   "tags": [
+    "food"
+   ],
+   "metadesc": "Discover the world of Irish Whiskey through a monthly subscription service"
+  },
+  {
+   "name": "Craft Cocktails",
+   "url": "https://www.craftcocktails.ie",
+   "tags": [
+    "food"
+   ],
+   "metadesc": [
+    "Craft Cocktails are a range of premium bottled cocktails, hand mixed and bottled in Dublin 7 using 100% natural ingredients, premium spirits and some serious bartender know-how. From the award winning team at Bar 1661."
+   ]
+  },
+  {
+   "name": "WASi - Forest Kelp Wild Atlantic Way Seaweed Pesto",
+   "url": "https://wasi.ie",
+   "tags": [
+    "food"
+   ],
+   "metadesc": [
+       "At Wild Atlantic Seaweed Ireland, our Irish Seaweed products are the marriage of the wholesome produce of the land to the vitality of the ocean. We lovingly craft these gifts to create nourishing, delicious foods to bring your body the micronutrients of the sea in the form of our superfood seaweed pestos. Based in Bantry Bay, on the South Western corner of Ireland, Claire and Eli ethically hand harvest the wild seaweed to create nutrient rich, easy-to-eat products. "
+   ]
+  },
+  {
+   "name": "Gra Chocolates",
+   "url": "https://www.grachocolates.com",
+   "tags": [
+    "food"
+   ],
+   "metadesc": [
+    "Grá Chocolates is a chocolate brand founded on giving the best quality produce created into a mouthful of excitement. Following our principals of sourcing locally and sustainably, based on our conviction that great taste comes from the finest ingredients."
+   ]
+  },
+  {
+   "name": "Ballymore Organics",
+   "url": "https://www.ballymoreorganics.ie",
+   "tags": [
+    "food"
+   ],
+   "metadesc": [
+    "Ballymore Organics flour and porridge oats"
+   ]
+  },
+  {
+   "name": "Ballymakenny Potatoes",
+   "url": "https://ballymakennyfarm.com",
+   "tags": [
+    "food"
+   ],
+   "metadesc": [
+    "Irish heritage and speciality potatoes grown by Maria and David Flynn in their family farm in Co. Louth."
+   ]
+  },
+  {
+   "name": "Cotters Organic Lamb",
+   "url": "https://www.cotterorganiclamb.ie",
+   "tags": [
+    "food"
+   ],
+   "metadesc": [
+    "Premium, 100% Grass-fed, Organic Lamb crafted and produced by The Cotter Family in Abbeyfeale, Co. Limerick, Ireland. "
+   ]
+  },
+  {
+   "name": "Right Catering Company",
+   "url": "https://www.therightcateringcompany.com",
+   "tags": [
+    "food"
+   ],
+   "metadesc": [
+    "The Right Catering Company is an innovative and exciting entity in the catering industry in Ireland. We are prestigious, creative caterers in Dublin."
+   ]
+  },
+  {
+   "name": "Walls Wild Honey",
+   "url": "https://m.facebook.com/Walls-Wild-Honey-110015614245543",
+   "tags": [
+    "food"
+   ],
+   "metadesc": [
+    "Wall's Wild Honey, Derrymore West, Ireland. 447 likes. Wall's Wild Honey is produced in Derrymore , Co. Kerry by Cian Wall.\nCian is a 1st Year student in..."
+   ]
+  },
+  {
+   "name": "One Sonic Air Pods:",
+   "url": "https://www.onesonic.com",
+   "tags": [
+    "tech"
+   ],
+   "metadesc": [
+    "Onesonic is a developer and vendor of high-quality, wireless audio devices which currently includes the BXS-HD1 earphones and BB-HD1 headphones."
+   ]
+  },
+  {
+   "name": "GO ECO-PHONE COVERS",
+   "url": "https://www.goecophonecase.com",
+   "tags": [
+    "tech"
+   ],
+   "metadesc": [
+    "our phone cases are 100% biodegradable and affordable free shipping on all products until december 1st. check out our socials "
+   ]
+  },
+  {
+   "name": "Boombright",
+   "url": "https://boombright.ie",
+   "tags": [
+    "tech"
+   ],
+   "metadesc": [
+       "This perfect addition to a summer’s evening, it’s called a Boombright, and is an excellent loudspeaker and variable light device, the brainchild of Irishman Niall Duffy"
+   ]
+  },
+  {
+   "name": "Cards By Molly Madra",
+   "url": "https://www.cardsbymollymadra21.ie",
+   "tags": [
+    "arts",
+    "crafts"
+   ],
+   "metadesc": [
+    "Cards made in Ireland by Molly and Toto. Founded by 2 sisters on a magical creative journey. Selections include Christmas, thank you, and many more dog related cards."
+   ]
+  },
+  {
+   "name": "Rosemarie Durr Pottery -",
+   "url": "https://www.rosemariedurr.com",
+   "tags": [
+    "arts",
+    "crafts",
+    "ceramics"
+   ],
+   "metadesc": [
+    "Stoneware pottery Castlecomer, Co. Kilkenny. The Blue Range is an uplifting powder blue. The Stacking Range is practical, for convenient storage and display."
+   ]
+  },
+  {
+   "name": "Soilse Candle Company",
+   "url": "https://www.soilsecandlecompany.ie",
+   "tags": [
+    "arts",
+    "crafts"
+   ]
+  },
+  {
+   "name": "Foxford Woollen Mills",
+   "url": "https://www.foxfordwoollenmills.com",
+   "tags": [
+    "arts",
+    "crafts"
+   ],
+   "metadesc": [
+    "Online store for Foxford Woollen Mills, woven in Ireland since 1892. Offering Woollen throws, scarves and Foxford Bedlinen."
+   ]
+  },
+  {
+   "name": "Glint Glass",
+   "url": "https://www.glintglassstudio.com",
+   "tags": [
+    "arts",
+    "crafts"
+   ]
+  },
+  {
+   "name": "The Hand-made Soap Company",
+   "url": "https://www.thehandmadesoapcompany.ie",
+   "tags": [
+    "arts",
+    "crafts",
+    "cosmetics"
+   ],
+   "metadesc": [
+    "Handmade skincare and home fragrance using certified natural ingredients and the finest botanical essential oils in our trademark fragrances. Squeaky clean skin and squeaky clean conscience. Natural hand and body creams, lotions, soaps and washes that doesn't cost the earth, literally."
+   ]
+  },
+  {
+   "name": "We Make Good table / Traveller Tinsmiths",
+   "url": "https://www.wemakegood.ie",
+   "tags": [
+    "arts",
+    "crafts"
+   ],
+   "metadesc": [
+    "We support the development of the Irish Social Enterprise Sector. We collaborate with designers and emerging social enterprises to create beautiful products, creating employment for people from disadvantaged backgrounds \u2013 changing lives and building stronger communities."
+   ]
+  },
+  {
+   "name": "Clover Rua tea towels",
+   "url": "https://www.cloverrua.com",
+   "tags": [
+    "arts",
+    "crafts"
+   ]
+  },
+  {
+   "name": "Arran St East Pottery",
+   "url": "https://www.arranstreeteast.ie",
+   "tags": [
+    "arts",
+    "crafts",
+    "ceramics"
+   ],
+   "metadesc": [
+    "Simple, functional and beautiful design for your home. Handmade in the heart of Dublin. Irish made, hand-thrown geometric pottery."
+   ]
+  },
+  {
+   "name": "Irish Hide Designs",
+   "url": "https://www.irishhidedesigns.com",
+   "tags": [
+    "arts",
+    "crafts"
+   ],
+   "metadesc": [
+    "Irish Hide Designs offer luxury furnishings & rugs made from premium, natural Irish cowhides & sheepskins. Irish sheepskin rugs & cowhide rugs - order online. We are a Guaranteed Irish certified company."
+   ]
+  },
+  {
+   "name": "Made Inside Out Prints",
+   "url": "https://www.Shop.mouldedinsideout.com",
+   "tags": [
+    "arts",
+    "crafts"
+   ]
+  },
+  {
+   "name": "Bridge Street Books",
+   "url": "https://www.bridgestreetbooks.ie",
+   "tags": [
+    "books"
+   ],
+   "metadesc": [
+    "Bridge Street Books is a multi award-winning, independent, family run bookshop set in an old house, right in the heart of Wicklow Town. Open since November 1999, the building is full of nooks & crannies where you can hide while browsing our extensive range of books."
+   ]
+  },
+  {
+   "name": "Maddens Leisure Products",
+   "url": "https://maddensleisure.com",
+   "tags": [
+    "sport",
+    "outdoor"
+   ],
+   "error": "connection error"
+  },
+  {
+   "name": "Skillmaster",
+   "url": "https://www.thekickcompany.ie",
+   "tags": [
+    "sport",
+    "outdoor"
+   ],
+   "error": "connection error"
+  },
+  {
+   "name": "Bambu Hurley",
+   "url": "https://www.torpeyhurleys.com",
+   "tags": [
+    "sport",
+    "outdoor"
+   ],
+   "metadesc": [
+    "Torpey Hurleys have been performing the Irish craft of Hurley (hurl) \r\nmanufacture since 1930. Quality is the key the each handcrafted product."
+   ]
+  },
+  {
+   "name": "Bodylite Nightrunner Belt",
+   "url": "https://www.bodylitegear.com",
+   "tags": [
+    "sport",
+    "outdoor"
+   ],
+   "metadesc": [
+    "Bodylite Gear is a sportswear brand. The Night Runner belt is a revolutionary LED light belt built and designed for safety, comfort and confidence. Our products either illuminate you or illuminates the area around you. The Night Runner belt is great for trail runners, road runners and walkers."
+   ]
+  },
+  {
+   "name": "Huku Ulu Balance Board",
+   "url": "https://www.hukubalance.com",
+   "tags": [
+    "sport",
+    "outdoor"
+   ],
+   "metadesc": [
+    "Get moving with Huku. Build strength through movement with balance boards and yoga wheels, designed to help improve posture, balance, strength and core. For surfers, board riders, yogis, physical trainers, physios and fun-seekers. Handcrafted in Donegal, Ireland. Guilt-free, and fun to use *Low Cost European Shipping*"
+   ]
+  },
+  {
+   "name": "Massage Gun",
+   "url": "https://www.massagegunsireland.ie",
+   "tags": [
+    "sport",
+    "outdoor"
+   ],
+   "metadesc": [
+    "Welcome to Massage Guns Ireland, home of the best percussive therapy massage guns & recovery products in the country. We deliver for free to anywhere in Ireland & the UK, and work with top athletes on their recovery with out products. Get started today!"
+   ]
+  },
+  {
+   "name": "Swim Club Coat",
+   "url": "https://www.swimclub.ie",
+   "tags": [
+    "sport",
+    "outdoor"
+   ]
+  },
+  {
+   "name": "Spot On Sports Gaa Ball",
+   "url": "https://www.spotonsports.ie",
+   "tags": [
+    "sport",
+    "outdoor"
+   ],
+   "metadesc": [
+    "Learn essential GAA Football kicking and hand passing skills with the best training tool for beginners. "
+   ]
+  },
+  {
+   "name": "Hughsie Sports",
+   "url": "https://www.hughseysports.com",
+   "tags": [
+    "sport",
+    "outdoor"
+   ],
+   "metadesc": [
+    "Shop Hughsey Sports for the latest GAA Gloves and Gear"
+   ]
+  },
+  {
+   "name": "Dutch Bike Shop",
+   "url": "https://www.dutchbikeshop.ie",
+   "tags": [
+    "sport",
+    "outdoor"
+   ]
+  },
+  {
+   "name": "Upcycled shoes",
+   "url": "http://www.taraleathers.ie",
+   "tags": [
+    "footwear",
+    "clothing"
+   ]
+  },
+  {
+   "name": "Dialize Clothing",
+   "url": "https://dializeclothing.com",
+   "tags": [
+    "clothing"
+   ],
+   "metadesc": [
+    "MEDICAL, CLOTHING, hoodie and half zip with discreet zip openings and pockets for chemotherapy, dialysis, iv and picc line treatments,"
+   ]
+  },
+  {
+   "name": "Pocket Office",
+   "url": "https://www.borienstudio.com",
+   "tags": [
+    "furniture"
+   ]
+  },
+  {
+   "name": "Vinehall Bench",
+   "url": "https://www.vinehallstore.com",
+   "tags": [
+    "furniture"
+   ],
+   "metadesc": [
+    "Adapt to the new normal with Vinehall Displays. In stock, we have everything you need to turn your home into an efficient office space. Flat-pack home office desks, laptop stands, lap desks. We also offer flat pack products like weights benches, plyo jump boxes, bike stands and more."
+   ]
+  },
+  {
+   "name": "Home By Notions",
+   "url": "https://www.homebynotions.com",
+   "tags": [
+    "furniture"
+   ],
+   "metadesc": [
+    "Custom built, made to order furniture delivered to your home within 72 \r\nhours of order. Custom built to suit your needs. Assemble at home in under \r\ntwo minutes."
+   ]
+  },
+  {
+   "name": "Tricia Harris Designs Lazy Lounger",
+   "url": "https://www.triciaharris.ie",
+   "tags": [
+    "furniture"
+   ]
+  },
+  {
+   "name": "Ballymun Rediscovery Centre",
+   "url": "https://www.rediscoverycentre.ie",
+   "tags": [
+    "furniture"
+   ],
+   "error": "connection error"
+  },
+  {
+   "name": "Livestock Live",
+   "url": "https://www.livestock-live.com",
+   "tags": [
+    "sport",
+    "outdoor",
+    "farm"
+   ]
+  },
+  {
+   "name": "Maser and Flowstate yoga mats",
+   "url": "https://www.flowstate.ie",
+   "tags": [
+    "sport",
+    "outdoor"
+   ],
+   "metadesc": [
+    "Flowstate is a bespoke lifestyle brand, creating products with the consumer \r\nin mind. An integrated approach to Art and Lifestyle. Shop our Yoga Mat on \r\nour online store."
+   ]
+  },
+  {
+   "name": "Little Green Growers",
+   "url": "https://littlegreengrowers.ie",
+   "tags": [
+    "plants",
+    "garden"
+   ],
+   "metadesc": [
+    "Love your garden. Love Nature.\nLittle Green Growers makes growing sustainable organic food easy.  \n\nHow can you grow your own food easily? Choose from certified organic tomato, salad, vegetable, edible flower and bee-friendly plants and seeds for delivery to your door.\n"
+   ]
+  },
+  {
+   "name": "A Tree of Life",
+   "url": "https://shopcountykildare.ie/store/a-life-tree-athy",
+   "tags": [
+    "plants",
+    "garden"
+   ]
+  },
+  {
+   "name": "Airplants Ireland",
+   "url": "https://www.airplantsireland.ie",
+   "tags": [
+    "plants",
+    "garden"
+   ],
+   "metadesc": [
+    "Air Plant Online Shop based in Galway, Ireland"
+   ]
+  },
+  {
+   "name": "Bumble Bee Flower Farm",
+   "url": "https://www.Bumblebeeflowerfarm.ie",
+   "tags": [
+    "plants",
+    "garden"
+   ],
+   "metadesc": [
+    "A Pollinators Paradise"
+   ]
+  },
+  {
+   "name": "Bird Feeder - Irish Design Shop",
+   "url": "https://www.Irishdesignshop.ie",
+   "tags": [
+    "plants",
+    "garden"
+   ],
+   "error": "connection error"
+  },
+  {
+   "name": "Gary B Wheelchair accessories",
+   "url": "https://garybwheelchairaccessories.ie",
+   "tags": [
+    "misc"
+   ]
+  },
+  {
+   "name": "Laughter Lounge",
+   "url": "https://www.laughterlounge.com",
+   "tags": [
+    "events"
+   ],
+   "metadesc": [
+    "Virtual Christmas Party | Christmas Party Box | 5 Star Reviews on TripAdvisor, Google and Facebook. 5,000 square feet Live Stand Up Comedy, located in Dublin, Ireland for over 23 years. Top Irish and International Comedians, Delicious Food, Great Drinks. Ideal for Office Staff Parties, COVID-19 Safety Charter Venue"
+   ]
+  },
+  {
+   "name": "nimble fingers",
+   "url": "https://nimblefingers.ie",
+   "tags": [
+    "toys"
+   ],
+   "desc": "A Dublin toyshop that has been making children and their parents happy for generations. Has grown a substantial online presence in recent years.",
+   "metadesc": [
+    "Nimble Fingers is one of Dublin's favourite toy stores. We sell quality children toys, scooters, books and board games & a range of trampolines."
+   ]
+  },
+  {
+   "name": "the toy shop online",
+   "url": "https://thetoyshoponline.ie",
+   "tags": [
+    "toys"
+   ],
+   "desc": "A super cute site with a large array of toys and scooters and all the rest."
+  },
+  {
+   "name": "jiminy",
+   "url": "https://jiminy.ie",
+   "tags": [
+    "toys"
+   ],
+   "desc": "A homegrown site that focuses on environmentally-friendly toys.",
+   "metadesc": [
+    "Buy eco friendly toys, art supplies, crafts and party supplies for kids, made with low toy-miles, non toxic and sustainable materials and plastic free!"
+   ]
+  },
+  {
+   "name": "world of wonder toys",
+   "url": "https://worldofwondertoys.ie",
+   "tags": [
+    "toys"
+   ],
+   "desc": "Familiar to many Munster-based people, this shop is now doing the business in a big way in the online space.",
+   "metadesc": [
+    "Welcome to World of Wonder Toystore. We are a 100% Irish online Toystore and we stock all the MAJOR brands at lower than RRP prices. We are part of the WORLD OF WONDER family. Toys at low prices available to buy now. Baby & Pre school toys, Toys for Boys, Toys for Girls"
+   ]
+  },
+  {
+   "name": "smyths toys",
+   "url": "https://smythstoys.com",
+   "tags": [
+    "toys"
+   ],
+   "desc": "Just because it is one of the biggest toyshops on the island does not make it less Irish. It stocks large ranges of all toys and operates a handy click-and-collect service."
+  },
+  {
+   "name": "mimi toys",
+   "url": "https://mimitoys.ie",
+   "tags": [
+    "toys"
+   ],
+   "desc": "An ever-increasing range of environmentally-sound toys for all kids. Again, this is a site that eschews that easily-breakable plastic stuff on the market."
+  },
+  {
+   "name": "byrnes online",
+   "url": "https://byrnesonline.ie",
+   "tags": [
+    "toys"
+   ],
+   "desc": "If you are looking for Lego or all manner of other toys, this Wexford shop might be able to help.",
+   "metadesc": [
+    "Welcome to Byrnes Online! Here you will find a wide range of LEGO sets and toys for kids of all ages! Free shipping in Ireland when you spend over \u20ac50!"
+   ]
+  },
+  {
+   "name": "wooden heart",
+   "url": "https://woodenheart.ie",
+   "tags": [
+    "toys"
+   ],
+   "desc": "A gorgeous little shop on Galway\u00e2\u20ac\u2122s Quay St that was always worth a browse in pre-Covid times. While the shop is on the small side, there are no space issues on the website. Plenty of wooden and traditional toys."
+  },
+  {
+   "name": "little ones",
+   "url": "https://littleones.ie",
+   "tags": [
+    "toys"
+   ],
+   "desc": "A beautiful shop based in Ennis, stuffed with the cutest of presents from Ireland and elsewhere. Definitely worth a visit, if only in a virtual sense.",
+   "metadesc": [
+    "Welcome to Little Ones online store where you will find a beautiful selection of Personalised, Baby and Children's Gifts, together with a collection of strong, robust Wooden Toys that are beautifully finished. Designed for role play, engaging imagination and stimulating young minds, these timeless modern wooden toy classics will inspire your children to discover the world of play. Free delivery in Ireland on orders over \u20ac50."
+   ]
+  },
+  {
+   "name": "kaliedy",
+   "url": "https://kaliedy.com",
+   "tags": [
+    "toys"
+   ],
+   "desc": "A new kid on the block, this site was born out of the ashes of Mothercare Ireland and is the only Irish stockist of a wide range of developmental toys from the Early Learning Centre, making it an ideal starting point for parents of young children",
+   "metadesc": [
+    "Ireland's best online only nursery and toy store, shop the new Kaliedy brand and the baby brands you love. Free Next Day Delivery on orders available."
+   ]
+  },
+  {
+   "name": "lottie",
+   "url": "https://eu.lottie.com",
+   "tags": [
+    "toys"
+   ],
+   "desc": "If Lisa Simpson was to set up a doll company she would set up something like this. This is right up there with the best sites we have come across this year. Based in Letterkenny, these doll people focus on body-positive dolls doing smart things. It bases many of its products on real kids and real people and they do things that real kids do. Last year the company released a doll based on Sinead Burke, who is a heroine of ours.",
+   "metadesc": [
+    "Lottie Dolls are inspired by and based on kids, relatable, empowering toys for girls and boys, celebrating childhood and encouraging kids to be themselves. 7.5\" in height. Irish owned Toy company. Be Bold Be Brave Be You!"
+   ]
+  },
+  {
+   "name": "duffys toy world",
+   "url": "https://duffystoyworld.ie",
+   "tags": [
+    "toys"
+   ],
+   "desc": "This Dunleer-based toy shop stocks a wide variety of imaginative, creative and fun-filled toys and is forever in search of fab new and innovative products, 'Toys are our passion,' they say. Good for them, we say.",
+   "metadesc": [
+    "www.duffystoyworld.ie is Ireland's Leading Independent Toy Store and Online Toy Store. We specialise in fun and educational toys. We stock the largest range of toys in Ireland."
+   ]
+  },
+  {
+   "name": "dice and counters",
+   "url": "https://diceandcounters.com",
+   "tags": [
+    "toys"
+   ],
+   "desc": "A site dedicated almost exclusively to the sale of board games? How could you not love that?pinocchios.ie - This family business dates back to 1983 but has had an online presence only since the last lockdown. It sells wooden traditional toys mostly and is well worth a browse.",
+   "metadesc": [
+    "We are a board games site based in the north cork area. With our passion and knowledge of board games we want to bring this fantastic social pastime to as much of Ireland as we can. Dice and Counters bringing you offline fun, one board game at a time."
+   ]
+  },
+  {
+   "name": "munchkins toys",
+   "url": "https://munchkinstoys.com",
+   "tags": [
+    "toys"
+   ],
+   "desc": "Another family-run shop that sells toys and baby gifts, it has a separate shop for children\u00e2\u20ac\u2122s shoes within the store. It is doing click and collect and nationwide delivery."
+  },
+  {
+   "name": "tales for tadpoles",
+   "url": "https://talesfortadpoles.ie",
+   "tags": [
+    "toys",
+    "books"
+   ],
+   "desc": "Small gift shop on Drury Street in Dublin specialising in children's books. It sells books, prints and other products for children. The print collection includes well-known illustrations and characters from books such as Winnie the Pooh, the Moomins and Miffy, as well as lots of Quentin Blake illustrations (from Roald Dahl's books).",
+   "metadesc": [
+    "A celebration of children's book illustration. We sell beautiful books, stationery and prints - perfect gifts for both children and adults alike."
+   ]
+  },
+  {
+   "name": "toysandgames.ie",
+   "url": "https://toysandgames.ie",
+   "tags": [
+    "toys"
+   ],
+   "desc": "There is no need to panic-buy toys when there are shops such as this selling in the online space.kidiko.ie - This site specialises in personalised toys and gifts, books and wooden toys. Based in Co Galway, the company\u00e2\u20ac\u2122s personalised rocking horses, play kitchens and trikes are going well at present.",
+   "metadesc": [
+    "Shop online with Toys and Games Ireland for quality wooden toys and educational toys at a budget to suit everyone.DELIVERY ONLY \u20ac2.50 ON ALL ORDERS OVER \u20ac35"
+   ]
+  },
+  {
+   "name": "cluiche",
+   "url": "https://cluiche.ie",
+   "tags": [
+    "toys"
+   ],
+   "desc": "This shop sells Irish language games which manage to be both social and educational."
+  },
+  {
+   "name": "udar",
+   "url": "https://udar.ie",
+   "tags": [
+    "toys"
+   ],
+   "desc": "Gl\u00c3\u00b3r na nGael's site sells Irish-language games and has the Irish rights to Scrabble and Monopoly as Gaeilge. From early December it will also have Cluedo as Gaeilge."
+  },
+  {
+   "name": "miggle d giggles",
+   "url": "https://miggledgiggles.com",
+   "tags": [
+    "toys"
+   ],
+   "desc": "Who wouldn't want a Michael D who giggles when his belly is squeezed? Helps to raise money for Our Lady\u00e2\u20ac\u2122s Children's Hospital in Crumlin too.",
+   "metadesc": [
+    "The giggling Irish president. Squeeze my belly to hear me giggle! Partnered with CMRF Crumlin, who raise vital funds for Crumlin Children's Hospital and Ireland's National Children's Research Centre."
+   ]
+  },
+  {
+   "name": "smokehouse",
+   "url": "https://smokehouse.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "'Finest traditionally-smoked wild Atlantic seafood' is this Connemara-based site\u00e2\u20ac\u2122s boast. What they sell looks great and we were almost as impressed by the @OldSmoky Twitter handle",
+   "metadesc": [
+    "Connemara Smokehouse offer the finest traditionally smoked wild atlantic salmon and smoked seafood sourced from the clear blue wild Atlantic waters."
+   ]
+  },
+  {
+   "name": "bosca bakery",
+   "url": "https://boscabakery.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "My name is Sian, and I run everything,' the mail we received began. 'I bake brownies that are then sent nationwide \u00e2\u20ac\u201c they fit through your letterbox and postage is free. I can also include a personalised message to the recipient for free \u00e2\u20ac\u201c they've been popular for lockdown birthdays and people thinking of loved ones they can\u00e2\u20ac\u2122t visit right now. I always use the best-quality ingredients I can find, such as free-range eggs, real butter and Belgian chocolate. And they're obviously delicious!"
+  },
+  {
+   "name": "man of aran fudge",
+   "url": "https://manofaranfudge.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "You won\u00e2\u20ac\u2122t find much better fudge anywhere in Ireland. And you can take that to the bank.wineonline.ie - These guys sell wine online, as the name suggests. Great ranges and speedy delivery.craftfoodtraders.ie - Waffles, savoury snacks, juices and a whole lot more if you fancy a treat.",
+   "metadesc": [
+    "Man of Aran fudge maker Tom\u00e1s P\u00f3il. 24 flavours of creamy buttery homemade fudge sold online and at markets and events. Orders over \u20ac50 ship free to Ireland"
+   ]
+  },
+  {
+   "name": "chezemily",
+   "url": "https://chezemily.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "This chocolate factory based in Dublin supplies the entire country. We have tried the chocolate and it is excellent.",
+   "metadesc": [
+    "Handmade artisan Belgian luxury chocolates made in Dublin, Ireland. Buy chocolate gifts, novelties and seasonal items online"
+   ]
+  },
+  {
+   "name": "net crisps",
+   "url": "https://netcrisps.com",
+   "tags": [
+    "food"
+   ],
+   "desc": "Mr Tayto on the internet? Who woulda thunk it? This small Irish retailer is selling all manner of crisps, including many of Mr Tayto\u00e2\u20ac\u2122s, as well as jellies and the like. Might be a nice idea if you have someone trapped in a place where Irish crisps \u00e2\u20ac\u201c and we all know they are the best crisps \u00e2\u20ac\u201c can\u00e2\u20ac\u2122t be found.",
+   "metadesc": [
+    "We sell the widest range of boxes of Irish crisps & snacks in Ireland. From boxes of Tayto Hot Lips Crisps to Smiths Bacon Fries, retro sweets and more, buy crisps in bulk with us & save! We are Ireland's fastest online crisp delivery service. Home of the Banshee Bones! Free delivery over \u20ac60 across Ireland!",
+    "We sell the widest range of boxes of Irish crisps &amp; snacks in Ireland. From boxes of Tayto Hot Lips Crisps to Smiths Bacon Fries, retro sweets and more, buy crisps in bulk with us &amp; save! We are Ireland&#39;s fastest online crisp delivery service. Home of the Banshee Bones! Free delivery over \u20ac60 across Ireland!"
+   ]
+  },
+  {
+   "name": "crossogue preserves",
+   "url": "https://crossoguepreserves.com",
+   "tags": [
+    "food"
+   ],
+   "desc": "Jams, jellies, chutney, etc. We are reliably informed that Crossogue\u00e2\u20ac\u2122s grapefruit marmalade and crab apple jelly are excellent.",
+   "metadesc": [
+    "For over 22 years Crossogue Preserves has been producing a range of Jams, Jellies, Marmalades, Curds, Chutneys and Coulis for our clients. They are still 100% hand-made, on the Crossogue farm, a family run farm in the heart of Co. Tipperary."
+   ]
+  },
+  {
+   "name": "mccambridges",
+   "url": "https://mccambridges.com",
+   "tags": [
+    "food"
+   ],
+   "desc": "As anyone who has ever set foot on Shop Street in Galway will know, McCambridges of Galway is a delight of a shop which has been feeding the city and beyond for generations. It has a big online presence and is also selling Christmas hampers.",
+   "metadesc": [
+    "McCambridge's Of Galway | Fine Wines and Foods | Galway | Ireland | Cafe | Restaurant | Deli"
+   ]
+  },
+  {
+   "name": "kaylas kitchen",
+   "url": "https://kaylaskitchen.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "Some great homemade ready meals to be found here if you are struggling to keep on top of things in your own kitchen.",
+   "metadesc": [
+    "We make super-tasty meals the home-cooked way, then deliver them to your \r\ndoor. Each dish is packed with goodness and full of nutrients, a result of \r\nour method of snap-freezing to lock in every bit of taste. Each dish comes \r\nin a range of sizes, ready to pop into the freezer meaning they\u2019re perfect \r\nfor those in ill-health, incapacitated or just too busy to make healthy \r\nfood from scratch. We cook, we freeze, we deliver, all you have to do is \r\nreheat in less than 30 minutes."
+   ]
+  },
+  {
+   "name": "ballymaloe foods",
+   "url": "https://ballymaloefoods.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "This is a place to approach with relish. Ha! See what we did there? Great food for sale on a lovely site.",
+   "metadesc": [
+    "Our family-run business is on the exciting journey of bringing delicious tasting products to kitchens all over the world."
+   ]
+  },
+  {
+   "name": "chocolate.ie",
+   "url": "https://chocolate.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "A website address to remember, this. It has all manner of gorgeous-looking chocolates which are beautifully packaged and presented. It has its roots in a chocolate shop based in the English Market in Cork which opened 20 years ago.",
+   "metadesc": [
+    "We source premium chocolate & confectionery from a wide variety of suppliers throughout Europe, including Ireland. We're so excited about our exquisite range of loose chocolates and our award winning high cocoa content, single origin and single estate chocolate range which is constantly growing. We also stock: organic, 100% cocoa bars & powders, gluten-free and diabetic chocolate; chocolate covered nuts; chocolate covered coffee beans; chocolate for cooking & baking; drinking chocolate; Chocolate Lollipops; Marzipan; Nougat; Hadji Bey Turkish Delight."
+   ]
+  },
+  {
+   "name": "ollys farm",
+   "url": "https://ollysfarm.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "Looking for Dublin honey? Then look no further than this site, which has a range of 100 per cent raw Irish honeys including heather, blossom and softset honey from different apiaries around Dublin and Wicklow. ",
+   "metadesc": [
+    "Beekeeper and smallholder in the Dublin Mountains producing award winning \r\nraw Irish Honey. Buy online 15 different types of honey throughout the \r\nseason and pollen from my Irish bees."
+   ]
+  },
+  {
+   "name": "harvest day",
+   "url": "https://harvestday.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "A site which has the aim of creating 'transparency around the food we eat. Weekly deliveries of locally sourced, organically grown produce, direct from small-scale farms in your community'.",
+   "metadesc": [
+    "Harvest Day is a mission-driven business with the belief in putting small sustainable food producers back at the heart of our food system. We want to create transparency around the food we eat. Weekly deliveries of locally sourced, naturally grown produce, direct from small scale farms in your community."
+   ]
+  },
+  {
+   "name": "gourmet tart co",
+   "url": "https://gourmettartco.com",
+   "tags": [
+    "food"
+   ],
+   "desc": "A bakery beloved of Galway people for a long time, its online presence is being significantly expanded, which means more people across the country will be able to experience its delightful treats and hampers. "
+  },
+  {
+   "name": "all ireland foods",
+   "url": "https://allirelandfoods.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "All Ireland Foods is a family business based in Enniscorthy, Co Wexford, and its aim is 'to encourage Irish food producers, growers, and cottage industries to sell and export their products online'. We like their motto: 'If it\u00e2\u20ac\u2122s not grown, raised or produced in Ireland, or caught on Irish-registered trawlers it will not be sold on our site.'"
+  },
+  {
+   "name": "ardkeen.com",
+   "url": "https://ardkeen.com",
+   "tags": [
+    "food"
+   ],
+   "desc": "The Ardkeen Quality Food Store rarely goes unmentioned any time we ask people to recommend good places to shop local. The Waterford-based supermarket has moved into the online delivery space in a big way in recent times, and has widened its service to include nationwide delivery for just \u00e2\u201a\u00ac6.95 per order.hazelmountainchocolate.com - We\u00e2\u20ac\u2122ve not actually tasted the chocolate from the Burren but we do love the sound of it.",
+   "metadesc": [
+    "Serving quality, Local, fresh, superior Irish produce over the last 48 years. We work with people who make, bake, smoke, grow and cook great food."
+   ]
+  },
+  {
+   "name": "essential food trails",
+   "url": "https://essentialfoodtrails.com",
+   "tags": [
+    "food"
+   ],
+   "desc": "We love this site which brings farmers\u00e2\u20ac\u2122 markets into a virtual world and a wider Irish market.",
+   "metadesc": [
+    "Essential Food Trails with Siobh\u00e1n Sloane connects people, food and nature. Small group & private eco-wellness walks, road-trip food tours to farms & markets in the west of Ireland"
+   ]
+  },
+  {
+   "name": "frank hederman",
+   "url": "https://frankhederman.com",
+   "tags": [
+    "food"
+   ],
+   "desc": "If you want smoked fish for a special occasion, you could run into Lidl or Aldi and get something cheap \u00e2\u20ac\u201c or you could go direct to an Irish business and have it delivered to your door. Sure, it will cost a bit more but it will be a whole lot better.",
+   "metadesc": [
+    "Irish smoked salmon, including very rare wild smoked salmon, all produced in a traditional timber smoke house where fish are hung for smoking by Frank Hederman."
+   ]
+  },
+  {
+   "name": "neighbour food",
+   "url": "https://neighbourfood.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "This foodie heaven is another one that brings small producers to your front door \u00e2\u20ac\u201c or at least to a collection point near you. A great idea that deserves support."
+  },
+  {
+   "name": "calveys achill mountain lamb",
+   "url": "https://calveysachillmountainlamb.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "The name of the site gives it away. Achill Lamb delivered to your front door."
+  },
+  {
+   "name": "green grocer at home",
+   "url": "https://greengrocerathome.com",
+   "tags": [
+    "food"
+   ],
+   "desc": "Full disclosure: this is Pricewatch\u00e2\u20ac\u2122s local greengrocer and we have been shopping on the site almost since the start of the lockdown. We can\u00e2\u20ac\u2122t sing its praises loudly enough if you\u00e2\u20ac\u2122re lucky enough to live in its delivery area.",
+   "metadesc": [
+    "All the lovely fresh produce from the Green Grocer delivered to your door"
+   ]
+  },
+  {
+   "name": "unglu-d",
+   "url": "https://unglu-d.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "A dedicated gluten-free food business with its own range of sauces and seasonings made locally in Co Louth. They come in handy 100ml bottles, so will make for lovely gifts. The folk behind it also do classes and help people learn more about GF."
+  },
+  {
+   "name": "ballymakenny farm",
+   "url": "https://ballymakennyfarm.com",
+   "tags": [
+    "food"
+   ],
+   "desc": "Not all potatoes are made equal, as a quick browse here will make very clear. Alongside the potato varieties you\u00e2\u20ac\u2122ll not have heard of, they also do bundles of queens and broccoli which look lovely.",
+   "metadesc": [
+    "Irish heritage and speciality potatoes grown by Maria and David Flynn in their family farm in Co. Louth."
+   ]
+  },
+  {
+   "name": "buy irish food",
+   "url": "https://buyirishfood.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "We don\u00e2\u20ac\u2122t have enough space to include more of the wonderful Irish food businesses that have moved into the online space, but this site has a whole lot more of them.",
+   "metadesc": [
+    "Find Irish food suppliers and producers who sell online."
+   ]
+  },
+  {
+   "name": "the counter deli",
+   "url": "https://thecounterdeli.com",
+   "tags": [
+    "food"
+   ],
+   "desc": "If you are looking for wine, sweet treats, cheese and coffee, you can find it all here.",
+   "metadesc": [
+    "We are a multi-award winning wine shop, deli and speciality coffee shop in \r\nLetterkenny, Co Donegal. We also sell beautifully branded, contemporary \r\nwine gifts and hampers containing the best Irish & International food \r\nproduce. Included in the McKenna Guides 2013, 2014, 2015, 2016, 2017 & \r\n2018."
+   ]
+  },
+  {
+   "name": "james whelan butchers",
+   "url": "https://jameswhelanbutchers.com",
+   "tags": [
+    "food"
+   ],
+   "desc": "One of the finest butchers in Ireland, with a vast array of cuts from the high end to the everyday.",
+   "metadesc": [
+    "Welcome to James Whelan Butchers, We deliver quality Irish beef, pork, steak, lamb & poultry anywhere in Ireland or UK. Try our Wagyu, Angus & Hereford Beef"
+   ]
+  },
+  {
+   "name": "kish fish",
+   "url": "https://kishfish.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "The fish folk have launched an online service with everything delivered in cooler boxes."
+  },
+  {
+   "name": "sheridans cheesemongers",
+   "url": "https://sheridanscheesemongers.com",
+   "tags": [
+    "food"
+   ],
+   "desc": "All the cheese, cured meats, crackers and other accoutrements you could want straight to your door.",
+   "metadesc": [
+    "Sheridans Cheesemongers - We are passionately committed to sourcing the highest quality artisan products and forging links directly with the food producers."
+   ]
+  },
+  {
+   "name": "stuff-u-need",
+   "url": "https://stuffuneed.ie",
+   "tags": [
+    "food"
+   ],
+   "desc": "Started out at the start of the pandemic delivering essentials to people not so keen on visiting shops and has grown in recent months into an online department store offering a delivery platform for many small Irish companies.",
+   "metadesc": [
+    "Stuff U Need"
+   ]
+  },
+  {
+   "name": "the biscuitmarket place",
+   "url": "https://thebiscuitmarketplace.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "A really excellent resource for anyone in the market for presents for themselves or others in the run-up to Christmas.",
+   "metadesc": [
+    "Find the perfect handcrafted creative gift from Ireland. Art, jewellery, skincare, and more to sell and buy. Support independent Irish artists and makers."
+   ]
+  },
+  {
+   "name": "the book resort",
+   "url": "https://thebookresort.ie",
+   "tags": [
+    "books",
+    "crafts"
+   ],
+   "desc": "Gorgeous idea. These folk put together gift boxes with books, chocolate, fancy soaps and more, all of which is delivered to you or to someone you like a lot in a lovely scented box.",
+   "metadesc": [
+    "The Book Resort is a book subscription & gift box company in Ireland.  We deliver beautiful boxes with new books, delicious chocolate & artisan surprises to the worlds book lovers.  Kids boxes and baby gifts available too!"
+   ]
+  },
+  {
+   "name": "studio donegal",
+   "url": "https://studiodonegal.ie",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "In the market for some homespun tweed? These folk will have you covered.",
+   "metadesc": [
+    "Shop at Studio Donegal for all your handwoven Donegal Tweed, ladies & mens tweed jackets, tweed hats & scarves, ladies tweed capes & knitting wool."
+   ]
+  },
+  {
+   "name": "quirky irish icons",
+   "url": "https://quirkyirishicons.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "We\u00e2\u20ac\u2122ll let this site speak for itself. 'Like everyone right now we are muddling through and keeping a safe distance! We are keeping the online shop open for anyone looking to send a little gift or make their fridge or walls look a little brighter! Rest assured we are abiding by strict hygiene standards while doing this and delivering via the lovely staff at An Post. Stay safe everyone.'",
+   "metadesc": [
+    "Irish themed quirky gifts that represent everything we love about Ireland. Perfect gifts for mothers day, fathers day, birthdays, stocking fillers. These Irish gifts are easy to send anywhere in Ireland and the world."
+   ]
+  },
+  {
+   "name": "carraig donn",
+   "url": "https://carraigdonn.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Always a lovely place to buy a present \u00e2\u20ac\u201c for yourself or someone else \u00e2\u20ac\u201c and the site was looking lovely last week draped in all sorts of autumnal colours. The site is promising free and fast delivery on orders over \u00e2\u201a\u00ac49.",
+   "metadesc": [
+    "Discover the latest fashion & trends in womenswear, homeware, gifts and jewellery at Carraig Donn. Shop our collection of clothes, accessories and homeware."
+   ]
+  },
+  {
+   "name": "my caboose store",
+   "url": "https://mycaboosestore.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "We will hand over to the site to describe itself. 'Caboose is the first online marketplace in Ireland that gathers the best Irish artisan producers together in one place. We make it easy for everyone to shop fresh ingredients, incredible flavours and rare recipes. We are proud supporters of independent producers, connecting them with food lovers. Come join our thriving Caboose community!'",
+   "metadesc": [
+    "Ireland's first online artisan food store bringing together the best Irish producers. Supporting local craft, Irish food and original creations."
+   ]
+  },
+  {
+   "name": "put your feet up",
+   "url": "https://putyourfeetup.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "If you are in the market for Irish produced candles that smell lovely and look even nicer then you won\u00e2\u20ac\u2122t go wrong with these people.",
+   "metadesc": [
+    "Natural Wax Candles & Reed Diffusers handmade in Ireland."
+   ]
+  },
+  {
+   "name": "clamp and tangle",
+   "url": "https://clampandtangle.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Galway-based shop which is selling a range of working-from-home furniture as well as natty stuff you might need for your home when you are not working. The site also has a commitment to the environment, and the designs focus on usability and extended use, while the company uses sustainable materials and finishes on all of its products and will even plant a tree when every piece is sold.",
+   "metadesc": [
+    "Clamp and Tangle Furniture design store. creating sustainable modular circular designs for a greener planet. Online ethical furniture shop. Closed loop products."
+   ]
+  },
+  {
+   "name": "designist",
+   "url": "https://designist.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Pricewatch has long been a fan of this Dublin shop when in need of a fun and funky last-minute stocking filler. The website is also fantastic.",
+   "metadesc": [
+    "designist sell Irish design, cool unusual gifts for weddings, Christmas & birthday presents, home & kitchen ware, stationery, prints, cards, lighting & books."
+   ]
+  },
+  {
+   "name": "cogs - the brain shop",
+   "url": "https://cogsthebrainshop.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Cogs the Brain Shop has a physical presence in the Stephen\u00e2\u20ac\u2122s Green Centre in Dublin, and an excellent site for games and toys that children will love."
+  },
+  {
+   "name": "green outlook",
+   "url": "https://greenoutlook.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Irish-based, with more than 25 Irish suppliers offering lifestyle products including shampoo bars, safety razors, natural skincare and a whole lot more.",
+   "metadesc": [
+    "Sustainably sourced, natural and plastic free living essentials. Supporting Irish people in their transition to a sustainable lifestyle or zero waste."
+   ]
+  },
+  {
+   "name": "my milis",
+   "url": "https://mymilis.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "This Waterford business was only born in March, and all the soy candles are handmade using sustainable and natural ingredients at the owner\u00e2\u20ac\u2122s kitchen table.",
+   "metadesc": [
+    "Milis offers sustainable indulgence in the form of scented homewares, \r\nhandmade here in Ireland. My first range is a set of natural soy wax \r\ncandles, hand-poured in small batches at home. These are all inspired by \r\nfamily and my love of baking. My goal with Milis is to offer you a safe, \r\nnatural and eco-friendly way to treat yourself when you deserve it most!"
+   ]
+  },
+  {
+   "name": "drumgreenagh",
+   "url": "https://drumgreenagh.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Described by its owners as 'a one-stop-gift-for-me shop based in Galway . . . stuff that\u00e2\u20ac\u2122s a little bit different from the usual fare'. Clothes, candles, ceramics, jewellery and a whole lot more besides.",
+   "metadesc": [
+    "Shop unique, ethical homeware, jewellery, beauty & gifts highlighting Irish design. FREE gift-wrapping, FREE personal shopper. International shipping available."
+   ]
+  },
+  {
+   "name": "hensteeth store",
+   "url": "https://hensteethstore.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "A lovely site selling lovely things and well worth a look for anyone in the market for a present for someone they care about.",
+   "metadesc": [
+    "Your online store for curated and original art and lifestyle products. Fast shipping around the world from our home on Blackpitts, Dublin 8, Ireland."
+   ]
+  },
+  {
+   "name": "scout dublin",
+   "url": "https://scoutdublin.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Clothes, shoes, homewares, kids\u00e2\u20ac\u2122 stuff and a whole lot more. The site\u00e2\u20ac\u2122s ethos is to provide 'a range of timeless products that steer clear from trends, instead offering functionality, good design and longevity' and to support 'the wealth of talent in Ireland\u00e2\u20ac\u2122s thriving design scene'.",
+   "metadesc": [
+    "Scout is located on Unit 5, Essex Street West, Temple Bar, Dublin 8. Products include Grenson shoes, Electronic Sheep, YMC, Fog Linen & Tina Ratzer"
+   ]
+  },
+  {
+   "name": "slated",
+   "url": "https://slated.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Irish Family design studio creating (the hint is in the name) slate tableware and personalised gifts.",
+   "metadesc": [
+    "Slate Gifts and Tableware from Dublin, Ireland - Slated is an Irish family owned and run luxury artisan homeware brand handmade in Dublin, Ireland. Perfect for personalized gifts."
+   ]
+  },
+  {
+   "name": "irish design shop",
+   "url": "https://irishdesignshop.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "A site which prides itself on promoting the 'work of Ireland\u00e2\u20ac\u2122s most exciting designer makers'. It has both an online presence and a bricks-and-mortar shop in Dublin.",
+   "metadesc": [
+    "Irish Design Shop is an award winning retailer selling the best in design led, unique craft from all over Ireland. Perfect for Irish made gifts, trading both online and from a bricks and mortar location in Dublin city centre."
+   ]
+  },
+  {
+   "name": "design ireland",
+   "url": "https://designireland.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "There is a limit to the number of sites we can feature here. There is a whole lot more to be found here.",
+   "metadesc": [
+    "Discover The Best of Design and Craft From Ireland, All In One Place."
+   ]
+  },
+  {
+   "name": "mimi and martha",
+   "url": "https://mimiandmartha.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "A new online store working with more than 40 makers and designers, with a big focus on local design. You will find tasty food, gifts, homewares and lifestyle items.",
+   "metadesc": [
+    "Interiors and Lifestyle Online Store featuring sustainably made home, interiors, lifestyle and gift items from Artists, Designers, Makers and Creators from Ireland and beyond."
+   ]
+  },
+  {
+   "name": "jam art prints",
+   "url": "https://jamartprints.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Artists fill the gallery with fresh concepts in print, using both traditional and contemporary techniques. The site stocks ceramics, textiles, jewellery and street art 'in strange and wonderful forms', with the owners saying they are 'always working with the artists to create exciting new designs'.",
+   "metadesc": [
+    "Jam Art Prints is a platform for Irish based printmakers from all different backgrounds to display and sell their work, set up by Jam Art Factory, Dublin. We sell digital prints, gicl\u00e9e prints, screen prints, lithograph prints, risograph prints, lino pints and signed limited edition prints by local designers."
+   ]
+  },
+  {
+   "name": "si jewellery ireland",
+   "url": "https://sijewelleryireland.com",
+   "tags": [
+    "jewellery"
+   ],
+   "desc": "Ailish from S\u00c3\u00ad Jewellery custom makes jewellery, tie bars, pocket watches and more with images and quotes. She can also make ashes and hair-infused memorial pieces.",
+   "error": "connection error"
+  },
+  {
+   "name": "the word bird",
+   "url": "https://thewordbird.eu",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "is is the home of personalised and original pre-printed word art by Susan Brambell. The idea is brilliant. You provide her with a list of words and she makes them into a shape of your choice. The result is a lovely, personalised text art gift. There are also pre-done options if you\u00e2\u20ac\u2122re lost for words.",
+   "metadesc": [
+    "Word clouds   word art  text art  Irish design personalised  gifts"
+   ]
+  },
+  {
+   "name": "market street",
+   "url": "https://marketstreet.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "'Indulge yourself or delight a loved one with our individually crafted gifts, made to inspire and charm. Handmade with love by over 100 passionate and creative Irish makers and designers.' That is how this site describes itself and we can\u00e2\u20ac\u2122t do any better than that.",
+   "metadesc": [
+    "Buy personalised gifts for your loved ones from Market Street. We have a large variety of unique handmade gifts such as cards, personalised frames and more."
+   ]
+  },
+  {
+   "name": "the cat and the moon",
+   "url": "https://thecatandthemoon.ie",
+   "tags": [
+    "jewellery",
+    "crafts"
+   ],
+   "desc": "In their own words, the people behind this site are 'purveyors of unique studio handcrafts and jewellery. Everything we sell is designed and fully handmade by artisans living and working in Ireland'."
+  },
+  {
+   "name": "my shop granny",
+   "url": "https://myshopgranny.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "This is an online platform stuffed with novel gift ideas and well worth a visit.",
+   "metadesc": [
+    "My Shop...Granny Likes It is a small shop based in Galway, Ireland. We nurture, support and promote contemporary Irish design, craft & art. Shop a wide range of contemporary Irish products today!"
+   ]
+  },
+  {
+   "name": "chupi",
+   "url": "https://chupi.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "If you are in the market for something special for someone you care about you won\u00e2\u20ac\u2122t go wrong with this acclaimed jeweller.",
+   "metadesc": [
+    "Chupi is a multi award winning fine jeweller making ethical diamond engagement rings, wedding rings, right hand rings and solid gold jewellery to mark your most precious moments. We are the luxury Dublin Jeweller, shop online or in our flagship store in Dublin, Ireland. Free worldwide shipping and 100 day returns."
+   ]
+  },
+  {
+   "name": "bababox",
+   "url": "https://bababox.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "A Dublin-based site which specialises in gifts for mums and babies. They tell Pricewatch that lots of their stockists are also small independent Irish businesses.",
+   "metadesc": [
+    "Baba Box specialises in unique baby gifts Ireland, gifts for new mums, mums-to-be and baby shower gifts featuring beautiful products from the best independent brands from across Ireland and Europe."
+   ]
+  },
+  {
+   "name": "ceramics bye taoin oreilly",
+   "url": "https://ceramicsbyetaoinoreilly.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "A small but beautiful range of hand-thrown ceramics made by Etaoin O\u00e2\u20ac\u2122Reilly, with jugs, diffusers, cups and Christmas decorations."
+  },
+  {
+   "name": "sam agus nessa",
+   "url": "https://samagusnessa.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "All manner of gifts handmade and using sustainable Irish wood.",
+   "metadesc": [
+    "sam agus nessa are furniture and homewares designers based in Ireland. Our pieces are handmade in Ireland from locally sourced Irish materials."
+   ]
+  },
+  {
+   "name": "finders keepers the store",
+   "url": "https://finderskeepersthestore.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "A design-led independent home and giftware store with a strong emphasis on sustainability.",
+   "metadesc": [
+    "We sell your favourite things! Check out our carefully curated range of independent brands from Ireland, Europe and Australia."
+   ]
+  },
+  {
+   "name": "29 bride stree",
+   "url": "https://29bridestreet",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Sustainably designed and screen-printed lifestyle products and accessories made by hand in Dublin by Liz Walsh. There\u00e2\u20ac\u2122s free shipping on all orders over \u00e2\u201a\u00ac50.",
+   "error": "connection error"
+  },
+  {
+   "name": "the kind",
+   "url": "https://thekind.co",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "A gorgeous online platform containing stock from more than 30 local businesses, with everything from kitchenware to kids toys. Everything is eco-friendly and ethically sourced.",
+   "metadesc": [
+    "We curate sustainable, ethical and eco-friendly products that are both kind to you and kind to the planet, from the very best independent retailers. Find plastic free alternatives that help you to live a more zero waste, low impact, minimalist lifestyle."
+   ]
+  },
+  {
+   "name": "blaithin ennis",
+   "url": "https://blaithinennis.com",
+   "tags": [
+    "jewellery"
+   ],
+   "desc": "Multi-award-winning jewellery brand, with all the pieces handmade from a studio in the southeast.Vinny Browne, manager, taking books for delivery from Charlie Byrne\u00e2\u20ac\u2122s Bookshop in Galway city. Photograph: Joe O\u00e2\u20ac\u2122Shaughnessy",
+   "metadesc": [
+    "Original, unique and award-winning contemporary jewellery designs. Every piece is designed & handmade in Ireland by Blaithin Ennis and her team in Wexford."
+   ]
+  },
+  {
+   "name": "a little idea",
+   "url": "https://alittleidea.ie",
+   "tags": [
+    "jewellery",
+    "crafts"
+   ],
+   "desc": "Some very brightly coloured and unusual jewellery as well as the odd mug, turbans, head scarves and loads of lovely cards.",
+   "metadesc": [
+    "Alittleidea is Irish Made Wedding Invites, Greeting Cards, Vintage Inspired \r\nJewellery, Teacup Jewellery, Retro Styled Hairbands & Head Scarves.Collar \r\nBrooches. Laser Cut Acrylic Brooches. Custom Made Invites & Cards. Made in \r\nIreland. Irish Design. Vintage Look. Vintage Style."
+   ]
+  },
+  {
+   "name": "wild atlantic living",
+   "url": "https://wildatlanticliving.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Gorgeous site on the west coast selling lovely things that will bring a smile to anyone\u00e2\u20ac\u2122s face, unless they are super grumpy, like.",
+   "metadesc": [
+    "Nestled on the edge of the Wild Atlantic Way, an innovative store laiden with fabulous, thoughtful gifts unlike the norm."
+   ]
+  },
+  {
+   "name": "ailandel",
+   "url": "https://ailandel.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "A site which acts as a platform for design and contemporary Irish homeware. 'Inspired by urban living and street art.'",
+   "metadesc": [
+    "ail+el home"
+   ]
+  },
+  {
+   "name": "artillery brand",
+   "url": "https://artillerybrand.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "This site 'aims to be among the world\u00e2\u20ac\u2122s best places to find clever and distinctive wall art of universal and Irish interest. We particularly like the classic posters advertising Ireland\u00e2\u20ac\u2122s National Cemetery \u00e2\u20ac\u201c and not just because it features loads of popes but, thankfully, not this one yet. There are also posters and prints of dear old Dublin sayings created by 'international and Irish letter-crafters'."
+  },
+  {
+   "name": "grace diamonds",
+   "url": "https://gracediamonds.ie",
+   "tags": [
+    "jewellery"
+   ],
+   "desc": "Online business making custom jewellery to suit all budgets. Ready-to-wear pieces are also available, and the diamonds have been ethically sourced.",
+   "metadesc": [
+    "Affordable Luxury without compromise. High-end diamond and gemstone jewellery dealer offering a premium service to the International market."
+   ]
+  },
+  {
+   "name": "burren perfumery",
+   "url": "https://burrenperfumery.com",
+   "tags": [
+    "art",
+    "crafts",
+    "cosmetics"
+   ],
+   "desc": "As they say themselves, the Burren Perfumery is 'a small, west-of-Ireland-based company making cosmetics and perfumes inspired by the landscape around us. Everything is made on site, by hand, in small batches.'",
+   "metadesc": [
+    "The Burren Perfumery makes perfumes and certified organic cosmetics inspired by the beautiful Burren landscape around us. We ship worldwide and shipping is free for orders over \u20ac70. Visit us, or shop online for a unique, Irish-made gift."
+   ]
+  },
+  {
+   "name": "Evans Art supplies",
+   "tags": [
+    "art"
+   ],
+   "url": "https://store.evansartsupplies.ie",
+   "desc": " - A fourth-generation family business offering an array of art and craft materials. 'Since last March we have really seen a huge increase in people coming back to art, many who hadn\u00e2\u20ac\u2122t drawn, painted or sculpted since college and what a great gift idea for a loved one of any age,' they tell us. We can\u00e2\u20ac\u2122t disagree with that.",
+   "metadesc": [
+    "Evans Art Supplies is a family run business which has been in the same family for 4 generations. We are the leading supplier in Ireland of Fine Art Materials."
+   ]
+  },
+  {
+   "name": "2 wild geese",
+   "url": "https://2wildgeese.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "2 Wild Geese is a place pace where you will find stuff from more than 60 artists and designers from all over Ireland."
+  },
+  {
+   "name": "laura jayne halton",
+   "url": "https://laurajaynehalton.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Laura Jayne Halton is a well-known Irish designer who is now taking artwork commissions for Christmas. Her latest work is created to complement stylish interiors and is particularly uplifting in these challenging times. Fashion-inspired illustrations are also available.",
+   "error": "connection error"
+  },
+  {
+   "name": "eva dorney",
+   "url": "https://evadorney.com",
+   "tags": [
+    "jewellery"
+   ],
+   "desc": "Bespoke jewellery and everything from simple pearl-drop earrings and contemporary silver pendants to gold bangles and platinum dress rings, all of which are handmade.",
+   "metadesc": [
+    "Contemporary fine jewellery handmade in Dublin 14 by goldsmith Eva Dorney - \r\ncommissions and remodels welcome"
+   ]
+  },
+  {
+   "name": "cloonkeen",
+   "url": "https://cloonkeen.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Amazing scented candles from Galway. They are normally found in fancy department stores but with all of them closed you can find them much closer to the source.",
+   "metadesc": [
+    "Cloon Keen creates luxury scented candles and perfume that are deeply entwined with Irish landscape, history & tradition.\r\n\r\n"
+   ]
+  },
+  {
+   "name": "six0six",
+   "url": "https://six0sixdesign.com",
+   "tags": [
+    "books",
+    "crafts"
+   ],
+   "desc": "Gifts for the book lovers in your live. We love the map keepsakes too. All the items are handmade by a local artist in her Kildare studio.",
+   "metadesc": [
+    "Literary Gifts and Map Keepsakes. Gifts for book lovers. Jane Austen gifts. Wedding gifts to celebrate long distance love. Birthday presents for bookworms. ",
+    "six0six design. An Irish design studio creating personalised literary gifts and map keepsakes. Pencil sets full of book quotes and map artworks for weddings"
+   ]
+  },
+  {
+   "name": "donegal pens",
+   "url": "https://donegalpens.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Handmade wooden pens from the Donegal Gaeltacht."
+  },
+  {
+   "name": "mccaffrey crafts",
+   "url": "https://mccaffreycrafts.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Handmade blackthorn walking and hiking sticks by a fifth-generation stick maker.",
+   "metadesc": [
+    "Shillelaghs & Blackthorn Walking Sticks"
+   ]
+  },
+  {
+   "name": "green dot design shop",
+   "url": "https://greendotdesignshop.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "A place where you will find lots of Irish-made treasures, curated gift boxes and a 'build your own' custom gift box option. Based in wonderful Clonakilty in Co Cork, it is a hub for beautiful, ethically-focused Irish craft and design.",
+   "metadesc": [
+    "A hub for beautiful, ethically-made Irish Craft and Design, based in Clonakilty, West Cork, Ireland. Home of Little Green Dot and other creative projects in our craft studio, our gift shop stocks the work of over 40 Irish-based Designer-Makers-Creatives and we also undertake commissions and collaborations."
+   ]
+  },
+  {
+   "name": "coach house dingle",
+   "url": "https://coachhousedingle.com",
+   "tags": [
+    "art",
+    "crafts",
+    "jewellery"
+   ],
+   "desc": "If you are looking for Irish jewellery, baskets, leather goods, candles, cashmere, ceramics, wood turning, iron works, cards, homewares and more, this is the site for you.",
+   "metadesc": [
+    "Dingle\u2019s\u00a0most beautiful shop & home to an unparalleled collection of stylish interior\u2019s accessories & furnishings, unique Irish Design & special gifts to mark all of life\u2019s memorable occasions."
+   ]
+  },
+  {
+   "name": "craft shapes ireland",
+   "url": "https://craftshapesireland.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "This is a family-run business based in Bunclody, Co Wexford, creating beautiful personalised gifts' that include door wreaths, tree decorations, personalised wooden cheese boards and Christmas Eve boxes. 'We have all gifts covered for your festive shopping,' they say.",
+   "metadesc": [
+    "Ireland's Premier Craft Shapes Supplier"
+   ]
+  },
+  {
+   "name": "irish whiskeystone company",
+   "url": "https://irishwhiskeystonecompany.ie",
+   "tags": [
+    "drink"
+   ],
+   "desc": "The Irish Whiskey Stone Company offers fun and functional gifts such as whiskey stones (the hint is in the name, see?) drinks coasters and hip flasks.",
+   "metadesc": [
+    "Unique Irish gifts made from Slate, Marble, Wood and Steel. Irish Whiskey Gifts and Souvenirs - Whiskey Chilling Stones, Gin Stones, Slate Coasters, Hip Flasks - great gifts for men!"
+   ]
+  },
+  {
+   "name": "annie west",
+   "url": "https://anniewest.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "We\u00e2\u20ac\u2122ve long been fans of Annie West. The Sligo-based artist has all sorts of prints \u00e2\u20ac\u201c many with a Yeatsy (that is a word, look it up) theme.",
+   "metadesc": [
+    "Commissions are original Pen & Ink illustrations. Limited edition prints \r\nfor large groups. Yeats gifts, County gifts, illustrated maps..."
+   ]
+  },
+  {
+   "name": "carveon",
+   "url": "https://carveon.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Not every site has its own classically-trained cobbler who uses a collection of vintage sewing machines to make leather goods. But you will find that here. There are wallets and bags and phone cases and notebooks on offer and they can personalise almost everything in their factory in Kildare.",
+   "metadesc": [
+    "We handcraft personalised leather accessories at our workshop in Co. Kildare, Ireland. We only use premium natural materials. We love what we do."
+   ]
+  },
+  {
+   "name": "edge only",
+   "url": "https://edgeonly.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Luxury jewellery with an edge, ethically made in Ireland. Solid gold and sterling silver jewellery in edgy designs for men and women. They have a new collection that is available for order now, as well as a wider range of jewellery gifts for men and women landing at the end of October.",
+   "metadesc": [
+    "Ethical luxury. Solid gold and sterling silver jewellery in edgy designs for men and women. Designed, ethically made and hallmarked in Dublin Castle, Ireland. Pav\u00e9 set diamond and platinum rings, custom gold wedding bands, earrings, necklaces, pendants, bangles, cufflinks, tie bars and pins available. LGBTQ ally."
+   ]
+  },
+  {
+   "name": "birthday cuff links",
+   "url": "https://birthdaycufflinks.ie",
+   "tags": [
+    "jewellery",
+    "crafts"
+   ],
+   "desc": "Just choose a year and they will make cufflinks from a genuine Irish coin from that year. We can\u00e2\u20ac\u2122t imagine there will be many takers for 2020."
+  },
+  {
+   "name": "the blue door direct",
+   "url": "https://thebluedoordirect.com",
+   "tags": [
+    "crafts"
+   ],
+   "desc": "This lovely shop in Monkstown, Co Dublin, offers all manner of interesting and handmade gifts and interiors products.",
+   "metadesc": [
+    "Buy online at The Blue Door. Discover a great selection of products at The Blue Door."
+   ]
+  },
+  {
+   "name": "ashford castle",
+   "tags": [
+    "crafts"
+   ],
+   "url": "https://shop.ashfordcastle.com",
+   "desc": "You may not be able to sleep in an Ashford Castle bed on an ongoing basis but you can sleep in its fancy linen sheets which are sold here. There is also Ashford Castle Monopoly \u00e2\u20ac\u201c where every road is Shrewsbury, presumably \u00e2\u20ac\u201c and all sorts of other lovely things.",
+   "metadesc": [
+    "Welcome to Mrs Tea's Boutique at Ashford Castle selling a range of gourmet delights, sporting equipment, clothing and gifts"
+   ]
+  },
+  {
+   "name": "fields",
+   "url": "https://fields.ie",
+   "tags": [
+    "crafts"
+   ],
+   "desc": "A wholly Irish-owned company which has been a market leader since 1979, it has 14 stores across the country but of course they are all closed at present.",
+   "metadesc": [
+    "Welcome to Fields the Jeweller, browse our diamond rings, watches, earrings, necklaces and much more. Expert Jewellers & market leaders since 1979."
+   ]
+  },
+  {
+   "name": "coastguard creatives",
+   "url": "https://coastguardcreatives.ie",
+   "tags": [
+    "crafts"
+   ],
+   "desc": "Coastguard Creatives is a collective of the finest craft workers, artists and designers who all live in Co Waterford.",
+   "metadesc": [
+    "Crafts for Christmas Tramore"
+   ]
+  },
+  {
+   "name": "loulerie",
+   "url": "https://loulerie.com",
+   "tags": [
+    "jewellery"
+   ],
+   "desc": "This boutique Irish jewellery store, based on Chatham Street in Dublin, has moved all of its business online and is continuing to fulfil orders during Lockdown Part 2.",
+   "metadesc": [
+    "Click here to discover the number one bespoke jewellers in Dublin - Loulerie.com. Ireland's most influential luxury jewel boutique. Free consultations."
+   ]
+  },
+  {
+   "name": "weldons",
+   "url": "https://weldons.ie",
+   "tags": [
+    "jewellery"
+   ],
+   "desc": "This fourth-generation Irish family jeweller, based on Clarendon Street in Dublin, offers antique and vintage jewellery."
+  },
+  {
+   "name": "galway crystal",
+   "url": "https://galwaycrystal.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "Established in 1967 and supplying elegant Irish crystal from Galway city, this company sells Irish crystal glasses, home decor, lighting and jewellery. The site specialises in personalised crystal giftware and ships nationwide and worldwide with An Post. The company also offers click and collect 'for our local friends in Galway city'.",
+   "metadesc": [
+    "Irish Crystal Glasses, Vases, Home Decor, Jewellery and personalised gifts"
+   ]
+  },
+  {
+   "name": "parkadays",
+   "url": "https://parkadays.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "This site sells sheepskin slippers and will soon be selling sheepskin-covered hot-water bottles.",
+   "metadesc": [
+    "Parka Jackets and Gilets"
+   ]
+  },
+  {
+   "name": "little museum",
+   "url": "https://littlemuseum.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "We love the Little Museum of Dublin and now we love its online shop, which sells books (for adults and child), games and high-quality souvenirs with a Dublin connection. There are also books it has published in-house including Kwaidan: Ghost Stories of Ladcadio Hearn and the Golden Age of Dublin, which tells the story of Georgian Dublin.",
+   "metadesc": [
+    "We tell the amazing story of the Irish capital. See why The Irish Times \r\nthink we're \"Dublin\u2019s best museum experience\" and we're number one on \r\nTripAdvisor.",
+    "The Little Museum of Dublin."
+   ]
+  },
+  {
+   "name": "domore",
+   "url": "https://domore.ie",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "'We are very like products offered on Etsy but we are a small business in Donegal, Ireland, and everything is handmade including the frames. Our goal is to get people to domore with their photos in this digital age.'",
+   "metadesc": [
+    "Personalised Gifts are the best way to show your love and care. We create Beautiful and Unique Personalised frames in Ireland for any occasion. Stock Frames, Photo albms and Fujifilm Instax Order Now!"
+   ]
+  },
+  {
+   "name": "lulu and belle",
+   "url": "https://luluandbelle.com",
+   "tags": [
+    "jewellery"
+   ],
+   "desc": "These guys manufacture and retail their personalised jewellery from a workshop in Rush, Co Dublin. They use traditional hand-stamping techniques to make and personalise each piece to order.",
+   "metadesc": [
+    "Ireland's personalised jewellery brand, hand-crafting initial jewellery, name necklaces and meaningful keepsake jewellery in our Dublin studio. Free Irish and UK delivery."
+   ]
+  },
+  {
+   "name": "woolow",
+   "url": "https://woolow.com",
+   "tags": [
+    "art",
+    "crafts"
+   ],
+   "desc": "This Galway-based company makes organic wool pillows. We hear they are super comfy, sustainable and natural and are particularly beneficial for people with allergies.",
+   "metadesc": [
+    "100% natural wool pillows from Ireland. All our woolow pillows are 100% natural wool sourced in Ireland, hypoallergenic and certified organic."
+   ]
+  },
+  {
+   "name": "silver shop dublin",
+   "url": "https://silvershopdublin.com",
+   "tags": [
+    "jewellery"
+   ],
+   "desc": "A great selection of antique and vintage silver and jewellery items for that special gift. Celebrating 39 years in the Powerscourt Centre.",
+   "error": "connection error"
+  },
+  {
+   "name": "gollums precious",
+   "url": "https://gollumsprecious.ie",
+   "tags": [
+    "jewellery"
+   ],
+   "desc": "This Irish jewellery business prides itself in offering high-quality contemporary pieces. They have handmade many pieces and source many others from various creative designers and jewellers."
+  },
+  {
+   "name": "irish sock society",
+   "url": "https://irishsocksciety.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "We have to say we love the socks from this Galway-based company. Really high quality and really inventive to boot. The company have also moved into the face mask space in recent months and we particularly like their mask which says, simply, 'howya'.",
+   "metadesc": [
+    "Having the craic from head to toe! Irish Humor Inspired Socks. Buy now or Subscribe for regular deliveries. Customised Socks Subscription for your special dates available."
+   ]
+  },
+  {
+   "name": "buachaill",
+   "url": "https://buachaill.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "Boxer shorts for boys with the word 'buachaill' on them? An-mhaith ar fad.",
+   "metadesc": [
+    "Buachaill.com offers young men boxer shorts that are stylish, sexy, comfortable, durable, and well-made. The underwear are made of 95% cotton and 5% elastane. Buachaill boxer shorts have a strong Irish identity."
+   ]
+  },
+  {
+   "name": "polly and andy",
+   "url": "https://pollyandandy.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "From jocks to socks, this site has some wonderful-looking seamless socks made from bamboo.",
+   "metadesc": [
+    "Seam-Free Super Soft Kids Seam Free Bamboo Socks. A sensory sensation that all kids will love. Irish Company based in Waterford."
+   ]
+  },
+  {
+   "name": "happiclose",
+   "url": "https://happiclose.ie",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "HappiClose is an Irish company which makes children\u00e2\u20ac\u2122s clothes that are easy to fit and fasten. 'Special baby-soft Velcro is used for fastening. These clothes are highly adaptive, being particularly suitable for children who are difficult to dress,' the site says."
+  },
+  {
+   "name": "sock coop",
+   "url": "https://sockcoop.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "Socks of Ireland? Yes, they\u00e2\u20ac\u2122re a thing now and the world is a better place for that.",
+   "metadesc": [
+    "Let your feet take you places, with Sock Co Op. Irish Designed Socks for him and her,that celebrate the beautiful places and landmarks or Ireland. Unique Panoramic design produced by a Small Design Company based in Dublin, Ireland. Quality socks, knitted with great care in EU using only Oekotoex 100 certified yarns."
+   ]
+  },
+  {
+   "name": "electronic sheep",
+   "url": "https://electronicsheep.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "Very cool scarves and jumpers and \u00e2\u20ac\u201c more recently \u00e2\u20ac\u201c masks.",
+   "metadesc": [
+    "Electronic Sheep are designers Brenda Aherne and Helen Delany. The Electronic Sheep design studio is based in Dalston, London."
+   ]
+  },
+  {
+   "name": "siolog",
+   "url": "https://siolog.ie",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "A collection of high-quality, ethically made childrenswear and lifestyle products from independent Irish brands.",
+   "metadesc": [
+    "S\u00edol\u00f3g is an online concept store for high quality ethical and sustainable children\u2019s clothing, exclusively from Irish designers and producers. Sustainable baby and kids clothes, accessories and homewares."
+   ]
+  },
+  {
+   "name": "due south",
+   "url": "https://duesouth.ie",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "Ethically made T-shirts and hoodies. Oh, and sunglasses made out of recycled skateboards \u00e2\u20ac\u201c what\u00e2\u20ac\u2122s not to love about that?",
+   "metadesc": [
+    "Due South Clothing Dublin, Ireland. Unique eco friendly and sustainable t-shirts designed and printed by hand in Dublin, Ireland."
+   ]
+  },
+  {
+   "name": "gaa baby",
+   "url": "https://gaababy.ie",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "With hundreds of thousands of Irish people relying on the GAA to keep them sane during the winter lockdown, the hurling, football and camogie championships are likely to be more popular this year than ever. What better way to capture the hearts and minds of the smallest of fans than with GAA-themed babywear!",
+   "metadesc": [
+    "GagaBaby is Ireland's 1st GAA babywear & gift company open since 2007. Personalised county & club babygros mini engraved hurls county cardigans hat & bibs"
+   ]
+  },
+  {
+   "name": "avoca",
+   "url": "https://avoca.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "We could have put this shop into almost any category, really. Not an Irish-owned shop anymore, but it still sells a lot of Irish-made products. And at the time of writing \u00e2\u20ac\u201c last Wednesday October 14th \u00e2\u20ac\u201c it was still having a sale.",
+   "metadesc": [
+    "Experience Avoca's online store, caf\u00e9s, stores, food markets and gardens. Shop Avoca throws and blankets, woven in Ireland. Browse clothing, beauty, homeware and more."
+   ]
+  },
+  {
+   "name": "hairy baby",
+   "url": "https://hairybaby.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "Can there be a Pricewatch reader who has not heard of this website? We have certainly plugged the T-shirt (and more recently mask) people enough. And they deserve it.",
+   "metadesc": [
+    "Funny Irish T-Shirts | Official Father Ted T-Shirt Supplier | Christmas Gift Ideas | Hairy Baby"
+   ]
+  },
+  {
+   "name": "louis copeland",
+   "url": "https://louiscopeland.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "An old-school tailor in a brave new world. If you are looking for fancy clobber or cufflinks or bags, you will find it here.",
+   "metadesc": [
+    "Formal, business and smart casual clothing for men. Browse our designer men's suits made to measure. Service is our history since 1933."
+   ]
+  },
+  {
+   "name": "anastasia shop",
+   "url": "https://anastasiashop.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "This boutique has \u00e2\u20ac\u201c in its own words \u00e2\u20ac\u201c'an outfit for every occasion. We offer a great selection of stylish occasion wear for weddings, christenings, communions and confirmations from leading Irish designers including Fee G and Caroline Kilkenny. Other dressy wear ranges include Chiara Boni La Petite Robe and Stop Staring dresses'.",
+   "metadesc": [
+    "Anastasia Boutique is an exclusive destination designer boutique and online store with Irish and International Designers in Ranelagh, Dublin, Ireland."
+   ]
+  },
+  {
+   "name": "siopaella",
+   "url": "https://siopaella.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "If you are looking for a place to buy and to sell fancy clobber, you need look no further.",
+   "metadesc": [
+    "Buy and sell authenticated designer handbags at Ireland's premier Designer Exchange & Resale specialising in pre-loved, Chanel, Louis Vuitton, Hermes & more. We offer cash upfront for LV Neverfulls, Gucci Marmots, Chanel flaps - see our designer wishlist for more details."
+   ]
+  },
+  {
+   "name": "ohh by gum",
+   "url": "https://ohhbygum.ie",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "A boutique that stocks all sorts of 'eco-chic' for women and children, from fairtrade and sustainable fashion labels that you will struggle to find elsewhere.",
+   "metadesc": [
+    "Ireland's Award winning Eco-Chic Boutique. One stop destination for Ethical Fashion for women and children with the largest range of sustainable clothing and product range in Ireland. Selling brands such as Seasalt, Thought, Humility, Lefrik, White Stuff, Minu, Pieszak Swan collection and Frugi for Children."
+   ]
+  },
+  {
+   "name": "beanantees",
+   "url": "https://beanantees.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "This site explains what it is better than we could: 'Empowering apparel and gifts celebrating wild Irish women and an Ghaeilge. Designed, embroidered and printed in the hills of Donegal. Each range supports a different rape crisis, pro-choice or LGBTQ+ organisation.'",
+   "metadesc": [
+    "BEANANTEES | Empowering apparel & gifts for Wild Irish Women | Beanantees "
+   ]
+  },
+  {
+   "name": "celtic tweed",
+   "url": "https://celtictweed.ie",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "These folk design and create sustainable Irish clothing in Balbriggan, Co Dublin. The clothes are handmade to order and the company does 'gents, ladies and unique Irish gifts'.",
+   "metadesc": [
+    "Check out traditional tweed clothing for men & women: jackets, waistcoats & vests, shirts, hats, skirts"
+   ]
+  },
+  {
+   "name": "jasmine tralee",
+   "url": "https://jasminetralee.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "Funky casual clothes and gift items for women.",
+   "metadesc": [
+    "Unique Boutique for Ladies Fashion Mother of the Bride and Groom, Wedding Guest and Communion Outfits, communion Dresses , Debs dresses and Races Wear"
+   ]
+  },
+  {
+   "name": "blus pjs box",
+   "url": "https://bluspjsbox.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "Until very recently we had no idea such a thing existed but, now that we do, we kind of love the idea of a subscription pyjama service. Or you can just buy on a once-off basis. Some lovely stuff here, so there is.",
+   "metadesc": [
+    "Pyjama Subscription | Blu's Pj's Box"
+   ]
+  },
+  {
+   "name": "rainbow kids boutique",
+   "url": "https://rainbowkidsboutique.ie",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "This is, one fan wrote, 'the most wonderful little shop who primarily stock children\u00e2\u20ac\u2122s ethical, comfy and colourful clothes but have recently expanded to include ethical adults clothing, gifts, beauty and a large range of toys. All their products come from suppliers who pay fair wages and their clothing is almost exclusively organic cotton.' The site sells Irish brands and we are told its customer service is second to none.",
+   "metadesc": [
+    "Welcome to Rainbow Kids Boutique, home of colourful, ethically produced clothing and shoes from Maxomorra, DUNS Sweden, Lily-Balou, Livie and Luca and more!"
+   ]
+  },
+  {
+   "name": "marie sue lingerie",
+   "url": "https://mariesuelingerie.ie",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "MarieSue Lingerie in Carlow and Newbridge, Co Kildare, has been in business since 2003. They are professional bra fitters, supply mastectomy wear, sports bras, maternity and nursing, non-wired, wired and much more.  They will also answer any query through email or a phone consultation.",
+   "metadesc": [
+    "We opened our first MarieSue Lingerie Shop in April 2003 and after many years of success opened our second shop in Newbrige. Mariesue Lingerie Carlow..."
+   ]
+  },
+  {
+   "name": "indigo and cloth",
+   "url": "https://indigoandcloth.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "This store features 'a curation of contemporary menswear, design and lifestyle goods'. It also has a speciality cafe on its ground floor in Dublin's Temple Bar.",
+   "metadesc": [
+    "Online store for curated contemporary menswear, lifestyle goods and homeware. Shipping internationally from Dublin, Ireland."
+   ]
+  },
+  {
+   "name": "hehirs",
+   "url": "https://hehirs.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "This clothes shop for men and women, based in Clifden, Co Galway, is closed like all the rest but is selling all over the country.",
+   "metadesc": [
+    "Ladies & Gents Fashion, Footwear & Knitwear in Clifden, Connemara, Co. Galway, on the Wild Atlantic Way. Stockists of Salsa Jeans,  Weird Fish, Tommy Bowe Menswear, and many more well known brands. Pop in store, or shop online - You never know what you might find!"
+   ]
+  },
+  {
+   "name": "mcelhinneys",
+   "url": "https://mcelhinneys.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "A Donegal favourite, this, but now open to us all. This family-owned store has clothes for everyone, as well as beauty, home, jewellery, bags and more. They are promising free and fast delivery on orders over \u00e2\u201a\u00ac49 and free click-and-collect service locally.",
+   "metadesc": [
+    "At McElhinneys we offer you the most unique and individual range of designer fashion brands and gifts at great prices. Browse our extensive range of men's, women's and children's clothing & footwear, designer handbags, jewellery, homeware plus much more. All this plus enjoy Free, fast delivery on orders over \u20ac49. "
+   ]
+  },
+  {
+   "name": "love lucy",
+   "url": "https://lovelucy.ie",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "If you don\u00e2\u20ac\u2122t already love Lucy, you might after a visit to this site."
+  },
+  {
+   "name": "dirty fabulous",
+   "url": "https://dirtyfabulous.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "A vintage shop with original vintage from the 1920s onwards. Lots of great bridal and occasion wear, plus killer accessories such as hats, bags, jewellery, etc, perfect for stocking fillers. The shop is currently updating its website for online shopping but you can buy from it through Instagram at the moment."
+  },
+  {
+   "name": "thomas patrick",
+   "url": "https://thomaspatrick.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "Thomas Patrick Shoes has been putting shoes on the feet of Ireland from its shop on Grafton Street in Dublin since 1974. That is closed at present but you can still buy online.",
+   "metadesc": [
+    "Thomas Patrick is a shoe retailer on Grafton Street Dublin, selling a curated range of fashion shoes and boots for women and men"
+   ]
+  },
+  {
+   "name": "little larks clothing",
+   "url": "https://littlelarksclothing.com",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "'We are two Irish mums, Caroline and Denise, who set up the brand and design beautiful-quality clothing that is fun to wear. We specialise in hand-smocked dresses and other lovely items from newborn to eight years.",
+   "metadesc": [
+    "Classic styles never go out of fashion. Little Larks make beautiful dresses clothing and accessories for babies, little girls and older girls."
+   ]
+  },
+  {
+   "name": "monaghans cashmere",
+   "url": "https://monaghanscashmere.ie",
+   "tags": [
+    "clothes"
+   ],
+   "desc": "This shop has been selling cashmere clothes and scarves for more than 60 years and if you are in the market for a lovely present for a loved one or yourself, then it will see you right."
+  },
+  {
+   "name": "the company of books",
+   "url": "https://thecompanyofbooks.ie",
+   "tags": [
+    "books"
+   ],
+   "desc": "Ranelagh-based bookshop offers a click-and-collect service as well as a book postage services. It can also deliver within 2km of the shop."
+  },
+  {
+   "name": "charlie byrne",
+   "url": "https://charliebyrne.ie",
+   "tags": [
+    "books"
+   ],
+   "desc": "No visit to Galway is complete without a browse in Charlie Byrne\u00e2\u20ac\u2122s. This is the city\u00e2\u20ac\u2122s largest and most lovely independent bookshop, with new and second-hand books on sale. Browsing online is not the same but it is still a thing of wonder. And the money stays in Ireland.High-quality and inventive socks from Galway-based irishsocksciety.com."
+  },
+  {
+   "name": "just books mullingar",
+   "url": "https://justbooksmullingar.com",
+   "tags": [
+    "books"
+   ],
+   "desc": "Just Books describes itself as 'a unique and charming bookshop located in the heart of Mullingar. We offer customers the personal touch and that\u00e2\u20ac\u2122s what makes us stand apart from other bookshops. We deliver books across Ireland. If you don\u00e2\u20ac\u2122t see what you are looking for, simply contact us and we will try our very best to get it for you'. Just one reason why shopping local is so much better than the alternatives.",
+   "metadesc": [
+    "Looking for your next great read? Look no further - Just Books is a traditional book store now delivering our wide range across Ireland"
+   ]
+  },
+  {
+   "name": "adam scloud",
+   "url": "https://adamscloud.com",
+   "tags": [
+    "books"
+   ],
+   "desc": "We have long loved the books in this collection. They are full of love and warmth and while they may have been born out of great sadness, they have also given a huge amount of joy to parents and children everywhere and to children\u00e2\u20ac\u2122s charities across the country."
+  },
+  {
+   "name": "easons",
+   "url": "https://easons.com",
+   "tags": [
+    "books"
+   ],
+   "desc": "Easons is the bookshop where millions of Irish people spanning three centuries have learned to love books and its site is well worth a look."
+  },
+  {
+   "name": "get up and go diary",
+   "url": "https://getupandgodiary.com",
+   "tags": [
+    "books"
+   ],
+   "desc": "This is a year that most of us will never forget but \u00e2\u20ac\u201c fingers crossed \u00e2\u20ac\u201c 2021 will be less memorable. You will find all kinds of diaries here and they are all quite lovely."
+  },
+  {
+   "name": "the book shop",
+   "url": "https://thebookshop.ie",
+   "tags": [
+    "books"
+   ],
+   "desc": "More than 50,000 second-hand books at \u00e2\u201a\u00ac2 or less, with free delivery on orders of more than \u00e2\u201a\u00ac20. They have other books that cost more than that too. Lots and lots of them.",
+   "metadesc": [
+    "sales@thebookshop.ie"
+   ]
+  },
+  {
+   "name": "kennys",
+   "url": "https://kennys.ie",
+   "tags": [
+    "books"
+   ],
+   "desc": "Kenny\u00e2\u20ac\u2122s celebrates its 80th birthday this year and has the longest-running online bookshop in the world \u00e2\u20ac\u201c take that Amazon. It often matches the big boys when it comes to price and beats them when it comes to quality.",
+   "metadesc": [
+    "Buy Books Online, Kennys Bookshop Ireland, Free Shipping Worldwide"
+   ]
+  },
+  {
+   "name": "gutter bookshop",
+   "url": "https://gutterbookshop.com",
+   "tags": [
+    "books"
+   ],
+   "desc": "Lovely bookshop run by lovely people in Dublin and Dalkey."
+  },
+  {
+   "name": "dubray books",
+   "url": "https://dubraybooks.ie",
+   "tags": [
+    "books"
+   ],
+   "desc": "A great book shop with helpful and informed staff. The website is pretty good too and has a lot of books we would all do well to read.",
+   "metadesc": [
+    "Dubray is an Irish bookseller with eight branches. Free shipping in Ireland on orders over \u20ac20. Browse recommendations, bestsellers, and a wide range of titles."
+   ]
+  },
+  {
+   "name": "bridgestreet books",
+   "url": "https://bridgestreetbooks.ie",
+   "tags": [
+    "books"
+   ],
+   "desc": "This independent, family-run bookstore in Wicklow town won the Irish Times Book Shop of the Year award way back in 2014 when the world was a different place.",
+   "metadesc": [
+    "Bridge Street Books is a multi award-winning, independent, family run bookshop set in an old house, right in the heart of Wicklow Town. Open since November 1999, the building is full of nooks & crannies where you can hide while browsing our extensive range of books."
+   ]
+  },
+  {
+   "name": "omahonys",
+   "url": "https://omahonys.ie",
+   "tags": [
+    "books"
+   ],
+   "desc": "This Munster-based family-run bookshop has been in business since 1902.",
+   "error": "connection error"
+  },
+  {
+   "name": "halfway up the stairs",
+   "url": "https://halfwayupthestairs.ie",
+   "tags": [
+    "books"
+   ],
+   "desc": "In the market for children\u00e2\u20ac\u2122s books? Well that is something these people know a lot about."
+  },
+  {
+   "name": "the book centre",
+   "url": "https://thebookcentre.ie",
+   "tags": [
+    "books"
+   ],
+   "desc": "A great online resource for book lovers, with excellent recommendations for all ages, videos on helping children to learn to love to read and even fancy chocolates. What more could you want?",
+   "metadesc": [
+    "The Book Centre.  Our Independent Book Stores are located in Waterford, Wexford, Kilkenny and Naas, Ireland. The Book Centre has been in business since 1971 and is a family owned and run local Irish Company."
+   ]
+  },
+  {
+   "name": "bookworm",
+   "url": "https://bookworm.ie",
+   "tags": [
+    "books"
+   ],
+   "desc": "We would be lost without our independent bookshops. This one in Thurles has been posting books to people all over the country and \u00e2\u20ac\u201c we are told \u00e2\u20ac\u201c has being playing a blinder as a community resource since Covid-19 hit last spring."
+  },
+  {
+   "name": "indeora",
+   "url": "https://indeora.com",
+   "tags": [
+    "health"
+   ],
+   "desc": "A lovely range of magnesium deodorant sprays which are scented with natural coconut and vanilla oils. We are promised chemical-free products which don\u00e2\u20ac\u2122t stain.",
+   "metadesc": [
+    "Healthy Magnesium Deodorant"
+   ]
+  },
+  {
+   "name": "the handmade soap company",
+   "url": "https://thehandmadesoapcompany.ie",
+   "tags": [
+    "health",
+    "cosmetics"
+   ],
+   "desc": "Natural, clean skincare and home fragrance free from synthetics. They are also vegan-friendly and sustainably made by hand in Ireland.",
+   "metadesc": [
+    "Handmade skincare and home fragrance using certified natural ingredients and the finest botanical essential oils in our trademark fragrances. Squeaky clean skin and squeaky clean conscience. Natural hand and body creams, lotions, soaps and washes that doesn't cost the earth, literally."
+   ]
+  },
+  {
+   "name": "palm free irish soap",
+   "url": "https://palmfreeirishsoap.ie",
+   "tags": [
+    "health",
+    "cosmetics"
+   ],
+   "desc": "Could there be a better time to be in the soap business, when everyone is washing their hands with more vigour than Howard Hughes in a septic tank? This Clare-based family business offers an ethical and environmentally friendly alternative to mainstream options.",
+   "metadesc": [
+    "Based on the beautiful shores of scenic Lough Derg in East Clare, Palm Free Irish Soap was born out of the first handmade Irish soap company (Gallunac est\u2019d in 1996) to exhibit, produce and sell Nationally & Internationally, A Luxurious Handcrafted Artisan Soap."
+   ]
+  },
+  {
+   "name": "connectify",
+   "url": "https://connectify.ie",
+   "tags": [
+    "music"
+   ],
+   "desc": "When it comes to tech, there isn\u00e2\u20ac\u2122t a lot made in Ireland, but at least by shopping with a local retailer, you are contributing to the local economy. This site is promising next-day delivery on an impressive range of kit."
+  },
+  {
+   "name": "elara",
+   "url": "https://elara.ie",
+   "tags": [
+    "music"
+   ],
+   "desc": "This site sells electronics including PCs, laptops, phones, components and software from the world\u00e2\u20ac\u2122s leading manufacturers and promises delivery within a couple of days.",
+   "metadesc": [
+    "Elara Online is Ireland's largest online computer and Laptop store, buy over 80,000 Laptops, computers, Printers, Hp. FREE Delivery Available."
+   ]
+  },
+  {
+   "name": "musiczone",
+   "url": "https://musiczone.ie",
+   "tags": [
+    "music"
+   ],
+   "desc": "Record shops have been having a hard time for a long time. While the world may have surrendered to streaming, there is a lot to be said for the physical product which is now being sold in virtual shops such as this one.",
+   "metadesc": [
+    "Music Zone are one of Ireland's largest stockist of vinyl records. Free delivery on all orders of 3 or more records. Browse our massive catalogue online. Tel: 021 4967119"
+   ]
+  },
+  {
+   "name": "onesonic",
+   "url": "https://onesonic.com",
+   "tags": [
+    "music"
+   ],
+   "desc": "There aren\u00e2\u20ac\u2122t many shops selling Irish tech but this is one. It has its own-brand wireless earphones and headphones and more exciting products currently in late-stage development and coming soon.",
+   "metadesc": [
+    "ONESONIC is a developer and vendor of high-quality, wireless audio devices which currently includes the BXS-HD1 earphones and BB-HD1 headphones."
+   ]
+  },
+  {
+   "name": "ebuzz",
+   "url": "https://ebuzz.ie",
+   "tags": [
+    "music"
+   ],
+   "desc": "This site sells music on vinyl and CD. It sells film and television programmes on DVD and Blu-ray. And also sells Nintendo Switch and PlayStation games, electric scooters and coffee machines.",
+   "metadesc": [
+    "Free Shipping to Ireland on all orders over \u20ac15. See our range of Ninebot by Segway electric scooters & self balancing transporters. Shop for PlayStation 4 & Nintendo Switch. Find the latest releases on Blu-ray, 4K Ultra HD & DVD. Browse online today for low prices on 1000's of products."
+   ]
+  },
+  {
+   "name": "conns cameras",
+   "url": "https://connscameras.ie",
+   "tags": [
+    "music"
+   ],
+   "desc": "Family-run business with as wide a range of camera equipment as you will find almost anywhere. Offers click-and-collect and delivery service across Ireland.",
+   "metadesc": [
+    "Ireland's Number One Camera Shop in Dublin. For the best advice on a huge range of Digital Cameras and SLR Cameras, Cameras Lenses, Cameras Accessories, Video Cameras, Binoculars or Telescopes shop with Conns Cameras. We deliver nationwide"
+   ]
+  },
+  {
+   "name": "heavins",
+   "url": "https://heavins.ie",
+   "tags": [
+    "music"
+   ],
+   "desc": "It is very easy to look to the big players if you are in the market for white goods, but there are a lot of local retailers in the space too, and many of them have pretty polished online offerings, such as Heavins. When we were on the site last week there was an impressive-looking sale."
+  },
+  {
+   "name": "compub",
+   "url": "https://compub.com",
+   "tags": [
+    "music"
+   ],
+   "desc": "If you are in the market for some high-end tech then these guys are definitely worth a look.",
+   "error": "connection error"
+  },
+  {
+   "name": "wildside sports",
+   "url": "https://wildsidesports.ie",
+   "tags": [
+    "sport"
+   ],
+   "desc": "If you are looking for clothes to get you through the winter \u00e2\u20ac\u201c in the Arctic circle as well as Ireland \u00e2\u20ac\u201c then this shop based in Bandon, Co Cork, will help you out. It also has all manner of outdoorsy gadgets and things that would help you survive in the wild \u00e2\u20ac\u201c but luckily we\u00e2\u20ac\u2122ve not reached that point.",
+   "metadesc": [
+    "Shop for hiking, surfing, kayaking, skate, camping and all outdoor gear. Great brands like Berghaus, The North Face, Meindl, Helly Hansen, Quiksilver and Xcel"
+   ]
+  },
+  {
+   "name": "lifestyle sports",
+   "url": "https://lifestylesports.com",
+   "tags": [
+    "sport"
+   ],
+   "desc": "It is easy to forget the big players when drawing up lists such as this but just because it is massive doesn\u00e2\u20ac\u2122t make this shop any less Irish.  It is also committed to free next-day delivery across Ireland as well as free returns. Returns have now been extended for Christmas until January 6th.",
+   "error": "connection error"
+  },
+  {
+   "name": "the edge sports",
+   "tags": [
+    "sport"
+   ],
+   "url": "https://theedge-sports.com",
+   "desc": "- A specialist in all things bikes, running, swimming and surfing, this site has been trading since 2007.",
+   "metadesc": [
+    "The Edge Sports Shop Cork is the leading Bicycle shop, Running shop and Swimming and Triathlon shop in Ireland."
+   ]
+  },
+  {
+   "name": "surfdock",
+   "url": "https://surfdock.com",
+   "tags": [
+    "sport"
+   ],
+   "desc": "Surfdock is Dublin\u00e2\u20ac\u2122s original surf shop, established in the Grand Canal Dock in 1991, now a second-generation family-run business. It sells wetsuits, changing robes and equipment for surfing, windsurfing, paddle boarding, open-water swimming and more. It offers click and collect too.",
+   "metadesc": [
+    "Buy O'Neill Wetsuits, Surfboards, Stand Up Paddleboards, Dryrobe + more. Click and collect available from our surf shop in Dublin. Free EU & UK Shipping over \u20ac100+ Thanks for shopping at Surfdock Watersports."
+   ]
+  },
+  {
+   "name": "tad cycling",
+   "url": "https://tadcycling.com",
+   "tags": [
+    "sport"
+   ],
+   "desc": "Cycling has never been as popular as it is now \u00e2\u20ac\u201c or at least not since the 1950s. This place can keep you safe and dry and your wheels spinning.",
+   "metadesc": [
+    "Tad\u00e1ias a cycling apparel brand designed in Donegal Ireland. Tad\u00e1ias cycling kit brings a unique, sophisticated, contemporary, modern style."
+   ]
+  },
+  {
+   "name": "west ireland cycling",
+   "url": "https://westirelandcycling.com",
+   "tags": [
+    "sport"
+   ],
+   "desc": "This is a family-run Galway bike shop that has been serving the biking needs of Galway and beyond for generations. From bikes and accessories to rentals and cycling holidays.",
+   "metadesc": [
+    "Award winning cycling holidays in spectacular locations. Consistently voted the best self-guided bike tour in Ireland. A family-run business devoted to cyclists who want to experience, explore and enjoy the West of Ireland at its very best. We specialise in cycling holidays, bike tours, bike rental, sales and repairs."
+   ]
+  },
+  {
+   "name": "lemons",
+   "url": "https://lemons.ie",
+   "tags": [
+    "health",
+    "beauty"
+   ],
+   "desc": "This beauty salon spent the summer working to build its online retail business to provide online beauty and hair products including Clarins, Yonka, Image, Kerastase, ASAP. It has lots of beautiful gift sets as well as the cutest bath bomb sets.  It delivers nationwide, and orders costing more than \u00e2\u201a\u00ac50 have free delivery. The company also does a click-and-collect service from its salon in Clontarf."
+  },
+  {
+   "name": "powder-n-pout",
+   "url": "https://powdernpout.com",
+   "tags": [
+    "health",
+    "beauty"
+   ],
+   "desc": "Billed as Ireland\u00e2\u20ac\u2122s most northerly Irish make-up brush brand, this Donegal business sells a range of high-quality make-up brushes that would make for a nice alternative to some of the big multinational brands that you might have heard of."
+  },
+  {
+   "name": "gardiner family apothecary",
+   "url": "https://gardinerfamilyapothecary.com",
+   "tags": [
+    "health",
+    "beauty"
+   ],
+   "desc": "This skincare company, based in Dundalk, Co Louth, manufactures, packages, and produces 100 per cent Irish products.",
+   "metadesc": [
+    "The first family apothecary in Ireland, home of Ovelle and Elave Skincare. Our products combine our expertise in traditional formulations with the latest dermatological advances. Designed to be used on all skin types & especially sensitive and dry skin or those prone to eczema, dermatitis, rosacea and psoriasis."
+   ]
+  },
+  {
+   "name": "beauty time",
+   "url": "https://beautytime.ie",
+   "tags": [
+    "health",
+    "beauty"
+   ],
+   "desc": "A small salon in Dun Laoghaire in Co Dublin will be selling skincare products and gifts and doing virtual skin consultations for people. It also has home facial kits to bring the salon to you.",
+   "error": "connection error"
+  },
+  {
+   "name": "grafton barbers",
+   "url": "https://graftonbarbers.com",
+   "tags": [
+    "health",
+    "beauty"
+   ],
+   "desc": "You might well ask how a barber shop can go online. Well, it can't cut your hair but this website can still be a destination for all your male grooming needs in the weeks ahead.",
+   "metadesc": [
+    "The Grafton Barber, established in 1961, is a classic barber and we pride ourselves in offering the highest quality service to both Gentlemen & Their Sons."
+   ]
+  },
+  {
+   "name": "little greengrowers",
+   "url": "https://littlegreengrowers.ie",
+   "tags": [
+    "misc"
+   ],
+   "desc": "An Irish online organic plant nursery which empowers people across Ireland to easily grow their own healthy organic veg and beautiful, bee-friendly flowers in harmony with nature,' they say. Their Connemara farm produces a curated range of certified organic Irish plants, seeds and supplies to save time and give easy, fast results. All its products are delivered nationwide in zero-waste packaging.",
+   "metadesc": [
+    "Love your garden. Love Nature.\nLittle Green Growers makes growing sustainable organic food easy.  \n\nHow can you grow your own food easily? Choose from certified organic tomato, salad, vegetable, edible flower and bee-friendly plants and seeds for delivery to your door.\n"
+   ]
+  },
+  {
+   "name": "trigger fish cookshop",
+   "url": "https://triggerfishcookshop.ie",
+   "tags": [
+    "misc"
+   ],
+   "desc": "Cookware, bakeware, kitchenware \u00e2\u20ac\u201c oh and the knives are out too.",
+   "metadesc": [
+    "An assortment of beautiful, curated cookware, kitchenware and tableware for everyday use."
+   ]
+  },
+  {
+   "name": "thriftify",
+   "url": "https://thriftify.ie",
+   "tags": [
+    "misc"
+   ],
+   "desc": "An Irish-owned and run business which provide an ecommerce storefront for charity shops, which of course are closed at present under the restrictions.",
+   "metadesc": [
+    "Thriftify online charity shop. Buy ethically & help charity with our range of books, clothes, films, games & more at bargain prices."
+   ]
+  },
+  {
+   "name": "wonky cards",
+   "url": "https://wonkycards.eu",
+   "tags": [
+    "misc"
+   ],
+   "desc": "Wonky Cards designs and prints a range of greeting cards and mugs for all occasions. The site also offers customised products and a Christmas range, and the company is focused on its environmental impact and uses only FSC-certified products and recycled products.",
+   "metadesc": [
+    "Shopify provides a reliable Ecommerce platform so you focus on selling online! Integrated hosting, shopping cart and Ecommerce payment solution all in one!"
+   ]
+  },
+  {
+   "name": "eco-straws",
+   "url": "https://ecostraws.ie",
+   "tags": [
+    "misc"
+   ],
+   "desc": "Who knew there were so many different environmentally-friendly straws out there? This Limerick-based site did. It's a great site full of great straws.",
+   "metadesc": [
+    "EcoStraws supply many different types of Eco-friendly reusable straws and 100% biodegradable disposable straws to both public and trade."
+   ]
+  },
+  {
+   "name": "its a wrap",
+   "url": "https://itsawrap.ie",
+   "tags": [
+    "misc"
+   ],
+   "desc": "This company makes a range of gorgeous beeswax wraps which are not only environmentally friendly but also keep food fresh for longer. Win, win. The wraps last about a year and as they fit into an envelope are perfect for sending, as sadly no visits are possible for now."
+  },
+  {
+   "name": "clevamama",
+   "url": "https://clevamama.com",
+   "tags": [
+    "misc"
+   ],
+   "desc": "Lovely baby products from a company based in Swords, Co Dublin."
+  },
+  {
+   "name": "boru decor",
+   "url": "https://borudecor.ie",
+   "tags": [
+    "misc"
+   ],
+   "desc": "This online flower shop specialises at Christmas time with gorgeous fresh, handmade wreaths and Christmas floral decor.",
+   "metadesc": [
+    "Aughrim based florist Boru D\u00e9cor now have a flowers online shop. As well as \r\nevent flowers, we offer bespoke flowers for weddings, funerals and all \r\noccasions."
+   ]
+  },
+  {
+   "name": "elephant living",
+   "url": "https://elephantliving.com",
+   "tags": [
+    "misc"
+   ],
+   "desc": "We will simply quote the reader who recommended this site. 'I recently purchased a beanbag from this site. Excellent website. Great customer service. Fab product. Speedy delivery. Irish owed company.'",
+   "metadesc": [
+    "Designed in Ireland with love! Home furnishings, bean bags, throws and cushions at awesome prices"
+   ]
+  },
+  {
+   "name": "vinehall store",
+   "url": "https://vinehallstore.com",
+   "tags": [
+    "misc"
+   ],
+   "desc": "Like many companies, these guys were forced to pivot in the pandemic. At the start of the year it was a company which ran Irish events and exhibitions. Today it sells all the kit you\u00e2\u20ac\u2122ll need for your home office.",
+   "metadesc": [
+    "Adapt to the new normal with Vinehall Displays. In stock, we have everything you need to turn your home into an efficient office space. Flat-pack home office desks, laptop stands, lap desks. We also offer flat pack products like weights benches, plyo jump boxes, bike stands and more."
+   ]
+  },
+  {
+   "name": "paperbear",
+   "url": "https://paperbear.ie",
+   "tags": [
+    "misc"
+   ],
+   "desc": "Beautiful pop-up cards for Christmas and all sorts of other events.",
+   "metadesc": [
+    "Find the perfect card for that special someone"
+   ]
+  }
+ ]
+}
