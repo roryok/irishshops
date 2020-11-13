@@ -9,11 +9,15 @@ Vue.use(VueRouter)
 const User = {
   template: '<div>User {{ $route.params.id }}</div>',
 }
+const About = {
+  template: '<div>User {{ $route.params.id }}</div>',
+}
 
 // these are passed to `createRouter`
 const routes = [
   // dynamic segments start with a colon
   { path: '/:tag', component: User },
+  { path: '/:about', component: About },
 ]
 
 // 3. Create the router instance and pass the `routes` option
